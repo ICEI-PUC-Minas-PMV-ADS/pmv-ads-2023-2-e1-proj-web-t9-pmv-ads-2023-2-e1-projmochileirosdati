@@ -2,7 +2,7 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
+
 
 <table>
 <tbody>
@@ -71,20 +71,19 @@ Docentes e pessoas responsáveis por ensino de iniciantes.
 </tr>
 </tbody>
 </table>
+
+
 ## Histórias de Usuários
 
-[Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
-
-> **Link Útil**:
-> - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-[Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
-
+|Estudante universitário| Aprofundar os conhecimentos de forma prática|Desenvolver melhor os projetos e ter maior domínio da área estudada|
+|Estudante universitário| Conhecer mais ferramentas e métodos que auxiliem no desenvolvimento de um código| Desenvolver mais agilidade e autonomia da codificação de um projeto|
+|Estudante universitário| Tirar dúvidas sobre projetos, formas de gestão e assuntos de estudo| Ter mais domínio sobre o assunto e resolver problemas encontrados|
+|Estudante Autodidata| Encontrar direção para estudos| Otimizar tempo de estudo e guiar os conhecimentos na ordem correta|
+|Estudante autodidata| Tirar dúvidas sobre assuntos e empencilhos encontrados| Para solucionar dúvidas|
+|Estudante autodidata| Aprender sore os assuntos de forma lúdica e prática| Absorver de forma natural os conhecimentos procurados|
 ## Requisitos do Projeto
 
 [Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
