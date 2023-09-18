@@ -7,20 +7,67 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Perfil 1: Estudante </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
 <td width="600px">...</td>
+Estudante iniciante cursando área da TI em instituição de ensino 
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>
+1. Uma ferramenta de complemento para aprendizado 
+2. Observar na prática a aplicação de conhecimentos 
+3. Atividades interativas educativas 
+4. Área para perguntas   
+</td>
 </tr>
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil 2: Estudante </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">...</td>
+Estudante iniciante que estuda TI por conta própria sem instituição de ensino 
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>
+1. Uma ferramenta para auxiliar/guiar os estudos 
+2. Observar na prática a aplicação de conhecimentos 
+3. Atividades interativas educativas 
+4. Área para perguntas   
+</td>
+</tr>
+</tbody>
+</table>
 
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil 3: Docente </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">...</td>
+Docentes e pessoas responsáveis por ensino de iniciantes 
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>
+1. Material de apoio no ensino 
+2. Espaço para inserção de projetos e conhecimentos 
+3. Área de interação para responder a questionamentos e elaborar    
+</td>
+</tr>
+</tbody>
+</table>
 ## Histórias de Usuários
 
 [Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
