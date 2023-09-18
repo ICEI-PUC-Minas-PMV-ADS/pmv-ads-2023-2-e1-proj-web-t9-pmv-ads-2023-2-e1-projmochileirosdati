@@ -65,7 +65,7 @@ Docentes e pessoas responsáveis por ensino de iniciantes.
 <td><b>Necessidades</b></td>
 <td>
 1. Material de apoio no ensino; 
-2. Espaço para inserção de projetos e conhecimentos; 
+2. Espaço para inserção de projetos e conhecimento; 
 3. Área de interação para responder a questionamentos e elaborar;    
 </td>
 </tr>
