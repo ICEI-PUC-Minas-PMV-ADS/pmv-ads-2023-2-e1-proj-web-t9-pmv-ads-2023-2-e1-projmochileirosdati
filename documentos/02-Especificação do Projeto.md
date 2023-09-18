@@ -11,16 +11,17 @@
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
-Estudante iniciante cursando área da TI em instituição de ensino 
+<td width="600px">
+Estudante iniciante cursando área da TI em instituição de ensino.
+</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-1. Uma ferramenta de complemento para aprendizado 
-2. Observar na prática a aplicação de conhecimentos 
-3. Atividades interativas educativas 
-4. Área para perguntas   
+1. Uma ferramenta de complemento para aprendizado; 
+2. Observar na prática a aplicação de conhecimentos; 
+3. Atividades interativas educativas; 
+4. Área para perguntas;   
 </td>
 </tr>
 </tbody>
@@ -33,16 +34,17 @@ Estudante iniciante cursando área da TI em instituição de ensino
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
-Estudante iniciante que estuda TI por conta própria sem instituição de ensino 
+<td width="600px">
+Estudante iniciante que estuda TI por conta própria sem instituição de ensino.
+</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-1. Uma ferramenta para auxiliar/guiar os estudos 
-2. Observar na prática a aplicação de conhecimentos 
-3. Atividades interativas educativas 
-4. Área para perguntas   
+1. Uma ferramenta para auxiliar/guiar os estudos; 
+2. Observar na prática a aplicação de conhecimentos; 
+3. Atividades interativas educativas; 
+4. Área para perguntas;   
 </td>
 </tr>
 </tbody>
@@ -55,15 +57,16 @@ Estudante iniciante que estuda TI por conta própria sem instituição de ensino
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
-Docentes e pessoas responsáveis por ensino de iniciantes 
+<td width="600px">
+Docentes e pessoas responsáveis por ensino de iniciantes.
+</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-1. Material de apoio no ensino 
-2. Espaço para inserção de projetos e conhecimentos 
-3. Área de interação para responder a questionamentos e elaborar    
+1. Material de apoio no ensino; 
+2. Espaço para inserção de projetos e conhecimentos; 
+3. Área de interação para responder a questionamentos e elaborar;    
 </td>
 </tr>
 </tbody>
