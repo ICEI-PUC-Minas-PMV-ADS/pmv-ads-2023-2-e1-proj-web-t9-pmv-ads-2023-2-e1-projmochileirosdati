@@ -2,20 +2,62 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
 
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Perfil 1 - Estudante </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">Estudante iniciante cursando área da TI em instituição de ensino </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>
+  Uma ferramenta de complemento para aprendizado 
+  Observar na prática a aplicação de conhecimentos 
+  Atividades interativas educativas 
+  Área para perguntas </td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil 2 - Estudante</th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Estudante iniciante que estuda TI por conta própria sem instituição de ensino</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>
+  Uma ferramenta para auxiliar/guiar os estudos 
+  Observar na prática a aplicação de conhecimentos 
+  Atividades interativas educativas 
+  Área para perguntas </td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil 3 - Professor</th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Docentes e pessoas responsáveis por ensino de iniciantes</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>
+  Material de apoio no ensino 
+  Espaço para inserção de projetos e conhecimentos 
+  Área de interação para responder a questionamentos e elaborar </td>
 </tr>
 </tbody>
 </table>
