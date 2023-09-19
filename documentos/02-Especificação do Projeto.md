@@ -38,7 +38,7 @@
   Uma ferramenta para auxiliar/guiar os estudos; 
   Observar na prática a aplicação de conhecimentos; 
   Atividades interativas educativas. 
-  Área para perguntas </td>
+  Área para perguntas. </td>
 </tr>
 </tbody>
 </table>
