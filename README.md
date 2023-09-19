@@ -10,13 +10,13 @@ Desenvolvimento de Aplicação Web Front-End
 I semestre
 
 O projeto trata do desenvolvimento de um Web Site com uso das linguagens HTML, CSS e JavaScript.
-A necessidade de um entendimento mais amplo das áreas que abrangem a TI, de formaque seja
+A necessidade de um entendimento mais amplo das áreas que abrangem a TI, de forma que seja
 possível se direcionar entre os caminhos, ferramentas e assusntos que levam ao objetivo
 requerido, fundamenta o desenvolvimento deste Web Site.
 
 Através de métodos didáticos, com a utlização de ferramentas para prática dos assuntos,
 a exemplo de um terminal Web para testes e execução de atividades, e de um chat para discussões
-duvidas e debates será possivel aproximar o conhecimento e o estudante de forma simples e fluida. 
+duvidas e debates será possivel aproximar o conhecimento e o estudante de forma simples e fluída. 
 
 ## Integrantes
 
