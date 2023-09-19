@@ -9,7 +9,7 @@ Desenvolvimento de Aplicação Web Front-End
 `SEMESTRE`
 I semestre
 
-O projeto trata do desenvolvimento de um Web Site com uso das linguagens HTML,CSS e JavaScript.
+O projeto trata do desenvolvimento de um Web Site com uso das linguagens HTML, CSS e JavaScript.
 A necessidade de um entendimento mais amplo das áreas que abrangem a TI, de formaque seja
 possível se direcionar entre os caminhos, ferramentas e assusntos que levam ao objetivo
 requerido, fundamenta o desenvolvimento deste Web Site.
