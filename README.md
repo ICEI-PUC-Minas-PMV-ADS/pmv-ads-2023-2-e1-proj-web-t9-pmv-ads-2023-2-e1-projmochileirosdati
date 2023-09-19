@@ -9,7 +9,10 @@ Desenvolvimento de Aplicação Web Front-End
 `SEMESTRE`
 I semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O projeto trata do desenvolvimento de um Web Site com assuntos direcioandos a área da
+TI. A necessidade de um entendimento mais amplo das áreas que abrangem a TI, de forma
+qeu seja possível se direcionar entre os caminhos, ferramentas e assusntos que levam 
+ao objetivo requerido.
 
 ## Integrantes
 
