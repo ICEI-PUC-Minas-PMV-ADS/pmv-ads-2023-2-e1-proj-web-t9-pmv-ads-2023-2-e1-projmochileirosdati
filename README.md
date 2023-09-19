@@ -1,13 +1,11 @@
 # Guia do Mochileiro da TI
 
-`CURSO`
-Analise e Desenvolvimento de Sistemas
+`Analise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
-Desenvolvimento de Aplicação Web Front-End
+`Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
-I semestre
+
+`I semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
