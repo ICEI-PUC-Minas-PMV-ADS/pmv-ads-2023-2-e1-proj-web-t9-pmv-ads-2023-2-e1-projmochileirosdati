@@ -18,7 +18,7 @@ ao objetivo requerido.
 
 * Amaury Vinicius Costa Magno
 * Moisés Nascimento Santos
-* Nome completo do aluno 3
+* Douglas Takemi Kimura
 * Nome completo do aluno 4
 * Nome completo do aluno 5
 * Nome completo do aluno 6
