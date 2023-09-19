@@ -1,6 +1,6 @@
 # Referências Bibliográficas
 
-[Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.]
+teste teste teste
 
 > **Links Úteis**:
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/)
