@@ -1,13 +1,11 @@
 # Guia do Mochileiro da TI
 
-`CURSO`
-Analise e Desenvolvimento de Sistemas
+`Analise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
-Desenvolvimento de Aplicação Web Front-End
+`Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
-I semestre
+
+`I semestre`
 
 O projeto trata do desenvolvimento de um Web Site com assuntos direcioandos a área da
 TI. A necessidade de um entendimento mais amplo das áreas que abrangem a TI, de forma
@@ -21,7 +19,7 @@ ao objetivo requerido.
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 * Nome completo do aluno 5
-* Nome completo do aluno 6
+* Nome
 
 ## Orientador
 
