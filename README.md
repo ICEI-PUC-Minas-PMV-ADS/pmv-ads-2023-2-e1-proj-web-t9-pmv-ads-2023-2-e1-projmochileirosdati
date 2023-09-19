@@ -17,7 +17,7 @@ ao objetivo requerido.
 ## Integrantes
 
 * Amaury Vinicius Costa Magno
-* Nome completo do aluno 
+* Moisés Nascimento Santos
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 * Nome completo do aluno 5
