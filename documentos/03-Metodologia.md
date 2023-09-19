@@ -1,13 +1,15 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
-
-
-## Gerenciamento de Projeto
 A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a:
 
 “visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+
+
+## Gerenciamento de Projeto
+O projeto desenvolvido utiliza para gerenciamento de software uma mesclagem entre o SCRUM e o RUP.
+Do modelo SCRUM utilizou-se dos artefatos, Backlog do produto, incremento do produto e Backlog da sprint em conjunto com o aplicativo TRELLO para organizar, dividir e guiar os membros da equipe entre as atividades de cada Sprint.
+Do modelo RUP utlizou-se a ferramenta UML(Unified Modeling Lenguage), afim de estruturar o desenvolvimento do site de forma mais visual, guiar o(s) desenvolvedores resposnsavéis por cada página até a confecção completa do site, divir os atividades do projeto em blocos e partilhar as visões e idéias para desenvolviemto de cada bloco que compõem as páginas do site.
 
 ### Divisão de Papéis
 
