@@ -15,10 +15,10 @@
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-  Uma ferramenta de complemento para aprendizado 
-  Observar na prática a aplicação de conhecimentos 
-  Atividades interativas educativas 
-  Área para perguntas </td>
+  Uma ferramenta de complemento para aprendizado; 
+  Observar na prática a aplicação de conhecimentos; 
+  Atividades interativas educativas; 
+  Área para perguntas. </td>
 </tr>
 </tbody>
 </table>
@@ -35,9 +35,9 @@
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-  Uma ferramenta para auxiliar/guiar os estudos 
-  Observar na prática a aplicação de conhecimentos 
-  Atividades interativas educativas 
+  Uma ferramenta para auxiliar/guiar os estudos; 
+  Observar na prática a aplicação de conhecimentos; 
+  Atividades interativas educativas. 
   Área para perguntas </td>
 </tr>
 </tbody>
@@ -55,9 +55,9 @@
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-  Material de apoio no ensino 
-  Espaço para inserção de projetos e conhecimentos 
-  Área de interação para responder a questionamentos e elaborar </td>
+  Material de apoio no ensino; 
+  Espaço para inserção de projetos e conhecimentos; 
+  Área de interação para responder a questionamentos e elaborar. </td>
 </tr>
 </tbody>
 </table>
