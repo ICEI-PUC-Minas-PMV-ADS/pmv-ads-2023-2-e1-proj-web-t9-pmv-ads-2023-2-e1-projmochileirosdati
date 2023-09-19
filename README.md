@@ -19,10 +19,7 @@ ao objetivo requerido.
 * Amaury Vinicius Costa Magno
 * Moisés Nascimento Santos
 * Douglas Takemi Kimura
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
-
+  
 ## Orientador
 
 * Marco Rodrigo Costa
