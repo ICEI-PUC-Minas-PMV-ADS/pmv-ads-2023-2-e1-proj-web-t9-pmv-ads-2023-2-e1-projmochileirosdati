@@ -89,18 +89,18 @@
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   | 
-|  ...  |  ...                    | ...   | 
-|  ...  |  ...                    | ...   | 
-|  ...  |  ...                    | ...   | 
-|  ...  |  ...                    | ...   | 
-|  ...  |  ...                    | ...   | 
-|  ...  |  ...                    | ...   | 
-|  ...  |  ...                    | ...   | 
-|  ...  |  ...                    | ...   | 
-|  ...  |  ...                    | ...   | 
-|  ...  |  ...                    | ...   | 
+| RF-01 | A aplicação deve conceder ao usuário a opção de cadastro e criação de conta. | MÉDIA | 
+| RF-02 | A aplicação deve permitir ao usuário efetuar o login na conta caso desejado.  | MÉDIA  | 
+| RF-03 | A aplicação deve permitir a inserção de conteúdo para usuários cadastrados.  | MÉDIA  | 
+| RF-04 | A aplicação deve conter avaliação de conteúdo para validação de postagens.  | MÉDIA  | 
+| RF-05 | A aplicação deve conter uma página principal para explicação do conteúdo da mesma.  | ALTA | 
+| RF-06 | A aplicação deve proporcionar um padrão para exibição de conteúdos com atividades interativas ao longo dos assuntos tratados. | ALTA | 
+| RF-07 | A aplicação deve conter áreas de comentário ao final de cada página com conteúdo. | MÉDIA | 
+| RF-08 | A aplicação deve conter um minimapa opcional e interativo como sumário do site. | MÉDIA | 
+| RF-09 | A aplicação deve conter áreas de mini games para explicação prática dos assuntos. | MÉDIA | 
+| RF-10 | A aplicação deve conter imagens em cada página como padrão de descrição e postagem do conteúdo. | ALTA  | 
+| RF-11 | A aplicação deve conter uma página específica para inserção de projetos dos usuários. | BAIXA | 
+| RF-12 | A aplicação deve conter uma página de blog com direcionamento para os assuntos. | BAIXA | 
 
 
 **Prioridade: Alta / Média / Baixa. 
