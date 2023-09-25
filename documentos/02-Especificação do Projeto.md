@@ -65,17 +65,19 @@
 
 ## Histórias de Usuários
 
-[Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
 
-> **Link Útil**:
-> - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-[Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
+| Estudante universitário  | Aprofundar os conhecimentos de forma prática | Desenvolver melhor os projetos e ter maior domínio da área estudada|
+| Estudante universitário  | Conhecer mais ferramentas e métodos que auxiliam no desenvolvimento de um código | Desenvolver mais agilidade e autonomia da codificação de um projeto | 
+| Estudante universitário  | Tirar dúvidas sobre projetos, formas de gestão e assuntos de estudo | Ter mais domínio sobre o assunto, resolver problemas encontrados |
+| Estudante autodidata   | Encontrar uma direção para estudos | Otimizar o tempo de estudo e guiar os conhecimentos na ordem correta | 
+| Estudante autodidata | Tirar dúvidas sobre os assuntos e empecilhos encontrados | Para solucionar dúvidas  |
+| Estudante autodidata  | Aprender sobre os assuntos de forma lúdica e prática | Absorver de forma natural os conhecimentos procurados | 
+| Docente | Ferramenta para auxiliar os alunos no desenvolvimento prático de códigos e assuntos na área da TI  | Trazer mais referências práticas para entendimento de conceitos básicos na área da TI  | 
+| Docente | Praticar os conhecimentos  | Refinar e reavaliar os assuntos na área da TI   |
+|Docente | Auxiliar na solução dos questionamentos de assuntos da TI | Praticar as abordagens e métodos de ensinamento e explicação de conteúdo | 
 
 ## Requisitos do Projeto
 
@@ -88,7 +90,18 @@
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
+|  ...  |  ...                    | ...   | 
+|  ...  |  ...                    | ...   | 
+|  ...  |  ...                    | ...   | 
+|  ...  |  ...                    | ...   | 
+|  ...  |  ...                    | ...   | 
+|  ...  |  ...                    | ...   | 
+|  ...  |  ...                    | ...   | 
+|  ...  |  ...                    | ...   | 
+|  ...  |  ...                    | ...   | 
+|  ...  |  ...                    | ...   | 
+|  ...  |  ...                    | ...   | 
+
 
 **Prioridade: Alta / Média / Baixa. 
 
@@ -96,9 +109,14 @@
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
 
-|ID      | Descrição               |Prioridade |
+|ID      | Descrição               |Prioridade | 
 |--------|-------------------------|----|
 | RNF-01 |  ...                    | ...   | 
+| ...    |  ...                    | ...   | 
+| ...    |  ...                    | ...   | 
+| ...    |  ...                    | ...   | 
+| ...    |  ...                    | ...   | 
+| ...    |  ...                    | ...   | 
 | ...    |  ...                    | ...   | 
 
 **Prioridade: Alta / Média / Baixa. 
