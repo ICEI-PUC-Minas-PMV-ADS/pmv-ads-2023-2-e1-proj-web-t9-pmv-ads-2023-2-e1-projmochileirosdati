@@ -30,7 +30,7 @@ A equipe foi organizada de maneira a atribuir as prioridades do product backlog 
 - Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
 - <figure>
-     <img scr="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/Gest%C3%A3o%20do%20projeto%20Scrum%20Trello.png?raw=true">
+     <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/Gest%C3%A3o%20do%20projeto%20Scrum%20Trello.png?raw=true">
 </figure>
 
 > **Links Úteis**:
