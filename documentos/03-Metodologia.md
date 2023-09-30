@@ -19,14 +19,11 @@ O projeto foi organizado da seguinte forma:
 - Equipe de Desenvolvimento: Amaury, Moisés e Douglas
 - Equipe de Design: Amaury, Moisés e Douglas
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+
 
 ### Processo
 
-[Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
+A equipe foi organizada de maneira a atribuir as prioridades do product backlog de acordo com os prazos de entrega da etapas do projeto definidos pela faculdade. A cada etapa do projeto em curso, a equipe, através de uma sprint planning, forma o sprint backlog, delega funções e atribui prioridades. Sprints únicos foram criados para cada etapa do projeto. A imagem abaixo mostra como é gerido o projeto através do aplicativo Trello. Na primeira coluna da esquerda para direita, está uma introdução do projeto e uma breve explicação da metodologia de gestão desse projeto. Nas colunas restantes estão, respectivamente, sprint backlog da etapa 1, sprint backlog da etapa 2, quadro de impedimentos ou dificuldades e quadro de etapas concluídas.
 - Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
 - To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
 - Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
