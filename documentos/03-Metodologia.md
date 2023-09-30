@@ -67,8 +67,8 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/README.md|
 | Documentos do projeto               | GitHub                             |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/tree/main|
-| Projeto de Interface                | MarvelApp                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
+| Projeto de Interface                | MarvelApp                          | http://....                            |
+| Gerenciamento do Projeto            | Trello                             |https://trello.com/b/WvxMsfda/gp-web-front|
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
 
