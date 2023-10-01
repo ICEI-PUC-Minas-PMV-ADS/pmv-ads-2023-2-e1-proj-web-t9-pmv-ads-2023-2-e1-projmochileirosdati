@@ -30,7 +30,8 @@ A equipe atribuiu as prioridades do product backlog de acordo com os prazos de e
 - Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
 - <figure>
-     <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/scrumtrello.jpg?raw=true">
+     <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/Trelloatual.png?raw=true">
+     <figcaption> Figura 2 - Quadro Scrum de gestão do projeto</figcaption>
 </figure>
 
 > **Links Úteis**:
@@ -67,7 +68,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/README.md|
 | Documentos do projeto               | GitHub                             |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/tree/main|
-| Projeto de Interface                | MarvelApp                          | http://....                            |
+| Projeto de Interface                | MarvelApp                          |https://marvelapp.com/prototype/6dhf14h|
 | Gerenciamento do Projeto            | Trello                             |https://trello.com/b/WvxMsfda/gp-web-front|
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
