@@ -54,8 +54,9 @@ A equipe atribuiu as prioridades do product backlog de acordo com os prazos de e
 </figure> 
   
 ### Ferramentas
-
-[Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
+As principais ferramentas usadas no projeto foram: 
+- Plataforma de criação visual (wireframe, mockups e protótipos interativos).
+- Ferramentas de gestão e comunicação.
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
