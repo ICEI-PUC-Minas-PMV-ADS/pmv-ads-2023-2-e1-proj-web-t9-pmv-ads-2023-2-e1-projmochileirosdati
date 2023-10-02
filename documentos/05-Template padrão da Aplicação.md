@@ -14,6 +14,6 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 <h3><b>Tela de apresentação e navegação principal</b></h3>
 <p>Exibe informações sobre os intuitos do site e orienta o uso da mesma.</p>
 <figure> 
-  <img src="documentos/img/telasdosite/HomePage.png">
+  <img src="[documentos/img/telasdosite/HomePage.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/telasdosite/HomePage.png)https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/telasdosite/HomePage.png">
   <figcaption> Figura 1 - Tela da Home Page
 </figure> 
