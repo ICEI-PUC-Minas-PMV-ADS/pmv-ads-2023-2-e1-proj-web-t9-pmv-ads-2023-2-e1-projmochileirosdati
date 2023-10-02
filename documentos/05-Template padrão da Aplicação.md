@@ -14,6 +14,6 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 <h3><b>Tela de apresentação e navegação principal</b></h3>
 <p>Exibe informações sobre os intuitos do site e orienta o uso da mesma.</p>
 <figure> 
-  <img src="https://user-images.githubusercontent.com/81182674/167680178-5869794e-1133-4dbd-aed9-31eef5c54d50.png">
-  <figcaption> Figura 1 - Tela de Livros
+  <img src="documentos/img/telasdosite/HomePage.png">
+  <figcaption> Figura 1 - Tela da Home Page
 </figure> 
