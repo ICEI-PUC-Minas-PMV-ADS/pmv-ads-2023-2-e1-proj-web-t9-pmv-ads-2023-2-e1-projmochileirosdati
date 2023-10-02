@@ -103,13 +103,3 @@ A tela de usuário exibe um local para inserção de foto do indivíduo, dados d
 
 
 
-## Tela - Página de blog
-A tela de Blog é onde estão todos os conteúdos autorais dos criadores e dos usuários aprovados, listados em pequenos blocos ordenados.
-
-<figure>
-    <img src="https://user-images.githubusercontent.com/144903154/271866655-d4373b5d-ffdf-45bc-ad62-0b636153ae66.png"
-          <figcaption>Figura 10 - Página Blog</figure>
-</figure>
-
-
-
