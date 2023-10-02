@@ -12,6 +12,7 @@ A imagem abaixo expõe, de maneira bem simples e por meio de um diagrama userflo
 ## Protótipo
 
 ### Protótipo de baixa fidelidade
+### Para visualizar o protótipo interativo, acesse o <a href="https://marvelapp.com/prototype/6dhf14h/screen/92797861">ambiente MarvelApp do projeto
 
 ## Tela - Homepage
 A tela de homepage apresenta uma breve descrição sobre o projeto, em seguida, explica a função do recurso do minimapa, logo abaixo estão dispostas os conteúdos de estudo do site, e em seguida encontra-se as publicações feitas tanto pelos criadores quanto pelos usuários validados.
