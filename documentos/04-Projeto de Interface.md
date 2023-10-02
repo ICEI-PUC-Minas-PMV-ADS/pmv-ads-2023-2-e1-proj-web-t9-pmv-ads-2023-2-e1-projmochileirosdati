@@ -28,7 +28,7 @@ A tela de conteúdo Dev Web contém uma breve descrição do o assunto, bloco re
 
 <figure>
     <img src="https://user-images.githubusercontent.com/144903154/271866567-f0a287f1-c977-4273-871e-fd3de32c8045.png"
-          <figcaption>Figura 2 - Homepage</figure>
+          <figcaption>Figura 2 - Dev Web</figure>
 </figure>
 
 
@@ -38,7 +38,7 @@ A tela de conteúdo de Matemática Básica contém uma descrição sobre o assun
 
 <figure>
     <img src="https://user-images.githubusercontent.com/144903154/271866592-2292ed56-c526-428b-8669-3d06254a2e75.png"
-          <figcaption>Figura 3 - Homepage</figure>
+          <figcaption>Figura 3 - Matemática Básica</figure>
 </figure>
 
 
@@ -48,7 +48,7 @@ A tela alternativa de conteúdo de Dev Web contém um bloco para o conteúdo exp
 
 <figure>
     <img src="https://user-images.githubusercontent.com/144903154/271866603-1de926fd-063c-4c67-8425-77c9ba8592f8.png"
-          <figcaption>Figura 4 - Homepage</figure>
+          <figcaption>Figura 4 - Conteúdo Dev Web</figure>
 </figure>
 
 
@@ -58,7 +58,7 @@ A tela alternativa de conteúdo de Matemática Básica contém um bloco para o a
 
 <figure>
     <img src="https://user-images.githubusercontent.com/144903154/271866612-a3f978a3-cd4e-470a-a9b6-20389f29333d.png"
-          <figcaption>Figura 5 - Homepage</figure>
+          <figcaption>Figura 5 - Conteúdo Matemática Básica</figure>
 </figure>
 
 
@@ -68,7 +68,7 @@ A tela do Blog da TI exibe um campo de comentários para discussões e questiona
 
 <figure>
     <img src="https://user-images.githubusercontent.com/144903154/271866620-73187792-0d93-4096-8493-5684781b0452.png"
-          <figcaption>Figura 6 - Homepage</figure>
+          <figcaption>Figura 6 - Blog TI</figure>
 </figure>
 
 
@@ -78,7 +78,7 @@ A tela de Login contém um campo para digitação de usuário e senha.
 
 <figure>
     <img src="https://user-images.githubusercontent.com/144903154/271866626-5eb9391d-a26e-48af-9637-ed1950df333e.png"
-          <figcaption>Figura 7 - Homepage</figure>
+          <figcaption>Figura 7 - Login</figure>
 </figure>
 
 
@@ -88,7 +88,7 @@ A tela de Cadastro contém um campo para digitação de Nome, Sobrenome, Email, 
 
 <figure>
     <img src="https://user-images.githubusercontent.com/144903154/271866634-c65a04ff-09b9-4a56-a0d8-577671e5262c.png"
-          <figcaption>Figura 8 - Homepage</figure>
+          <figcaption>Figura 8 - Cadastro</figure>
 </figure>
 
 
@@ -98,7 +98,7 @@ A tela de usuário exibe um local para inserção de foto do indivíduo, dados d
 
 <figure>
     <img src="https://user-images.githubusercontent.com/144903154/271866644-0bb3769f-ea46-416d-bd04-53514f080d02.png"
-          <figcaption>Figura 9 - Homepage</figure>
+          <figcaption>Figura 9 - Aréaa do usuário</figure>
 </figure>
 
 
@@ -108,7 +108,7 @@ A tela de Blog é onde estão todos os conteúdos autorais dos criadores e dos u
 
 <figure>
     <img src="https://user-images.githubusercontent.com/144903154/271866655-d4373b5d-ffdf-45bc-ad62-0b636153ae66.png"
-          <figcaption>Figura 10 - Homepage</figure>
+          <figcaption>Figura 10 - Página Blog</figure>
 </figure>
 
 
