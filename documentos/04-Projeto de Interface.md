@@ -12,6 +12,10 @@ A imagem abaixo expõe, de maneira bem simples e por meio de um diagrama userflo
 ## Protótipo
 
 ### Protótipo de baixa fidelidade
+<figure>
+    <img src="https://user-images.githubusercontent.com/144903154/271866543-8c6bcded-f09e-4484-9ecf-66d7cb33fb26.png"
+          <figcaption>Figura 1 - Homepage</figure>
+</figure>
 ### Para visualizar o protótipo interativo, acesse o <a href="https://marvelapp.com/prototype/6dhf14h/screen/92797861">ambiente MarvelApp do projeto
 
 ## Tela - Homepage
