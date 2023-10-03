@@ -5,11 +5,14 @@
 
 A imagem abaixo expõe, de maneira bem simples e por meio de um diagrama userflow, a funcionalidade que permitirá que o ususário compartilhe seus projetos com todos os usuários da plataforma.
 <figure>
-    <img src=
+    <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/Userflowprojeto.jpg?raw=true"
           <figcaption>Figura 1 - Userflow de postagem de projetos</figure>
 </figure>
 
 ## Protótipo
+
+![Diagrama fluxo de usuários site](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144865205/afa78a2e-978a-43de-9eb9-b6dcbc418b47)
+
 
 ### Protótipo de baixa fidelidade
 <figure>
