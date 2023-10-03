@@ -2,7 +2,7 @@
 
 ## Slides
 
-![Diagrama Slide](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144865205/d620923f-d80c-4922-8fdc-0fbf1ade60f2)
+![Diagrama Slides apresentacao](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144865205/e72f2ca9-d439-4fb5-bb38-30ae1932558f)
 
 ### Slide PDF
 
