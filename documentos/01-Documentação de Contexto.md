@@ -11,22 +11,19 @@ O que é necessário para ser um bom mentor?
 Por que aprender e como aprender?
 
 
-## Objetivos
+# Objetivos
 
-• Ensinar e guiar aqueles que fazem ou desejam ser parte do meio de TI, explicando as dimensões e a importância de seu papel, demonstrar como superar seus desafios e 
- como encontrar seus próximos passos para continuar progredindo, enquanto nós progredimos junto aos leitores.
- 
-• Compartilhar as técnicas de aprendizado e de estudo que usamos em nosso curso e que usaremos em nossos futuros empregos no ramo.
+## Objetivo geral
 
-• Instruções de como montar uma rotina saudável de aprendizado e como conciliar o trabalho e os estudos gerenciando o tempo.
+Desenvolver um site capaz de auxiliar no processo de aprendizado de forma direcional  através de um modelo didático e  autoexplicativo, onde a teoria ande lado a lado com prática. ​
 
-• Compartilhar estudos de caso que achamos interessantes e também dar espaço aos usuários para compartilhar os que chamaram sua atenção.
+## Objetivos específicos
 
-• Introduzir aulas básicas explicativas sobre linguagens de nosso conhecimento e outras tecnologias essenciais, exemplo; C#, Python, CSS HTML JavaScript, VS code...
+• Direcionar alunos, estudantes e professores aos conhecimentos da TI;​
 
-• Recomendar conteúdo cuja qualidade foi aprovada pelos criadores do site.
+• Validar os conhecimentos adquiridos de forma prática e visual;​
 
-• Dar espaço para discussões sobre assuntos diversos.
+• Disponibilizar um ambiente de interação entre os usuários.
 
 
 
