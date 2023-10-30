@@ -14,8 +14,10 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 
 <h3><b>Tela de apresentação e navegação principal</b></h3>
 <p>Exibe informações sobre os intuitos do site e orienta o uso da mesma.</p>
-![Home Page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144865205/4437200c-2cd1-4742-9ff6-1e427fcce48f)
-<figcaption>Figura 1 - Home Page</figure>
+<figure>
+    <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/imagensHTML/Home%20Page.jpeg?raw=true">
+    <figcaption>Figura 1 - Home Page</figure>
+</figure>
     
 <h3><b>Tela para realização do login</b></h3>
 <p>Permite o usuário realizar login, exibe imagem e logo tipo do site e campos para inserção de dados</p>
