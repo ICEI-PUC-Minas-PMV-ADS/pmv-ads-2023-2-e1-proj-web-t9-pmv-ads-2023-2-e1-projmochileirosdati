@@ -77,6 +77,59 @@ RF-02: A aplicação deve permitir ao usuário efetuar o login na conta caso des
 Responsável: Douglas
 
 
+### Tela de apresentação de conteúdo
+
+
+O acesso a tela de login poderá ser feito através da opção de menu “Login”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+
+<figure>
+    <img src="https://user-images.githubusercontent.com/144903154/278919692-750c19f2-d28c-46c9-9bf5-25441c9d614a.png">
+           <figcaption>Figura 1 - Exemplo tela de apresentação de conteúdo - 1.1 </figure>
+          <img src="https://user-images.githubusercontent.com/144903154/278919694-24620628-042c-4bb4-9e1c-fe453681ae9a.png">
+           <figcaption>Figura 2 - Exemplo tela de apresentação de conteúdo - 1.2 </figure>
+           <img src="https://user-images.githubusercontent.com/144903154/278919696-eb5e601e-3dd1-4ec6-8430-601e748af785.png">
+           <figcaption>Figura 3 - Exemplo tela de apresentação de conteúdo - 2.1 </figure>
+           <img src="https://user-images.githubusercontent.com/144903154/278919690-c84b7caa-fce6-42ea-8993-67a71b0b6d28.png">
+           <figcaption>Figura 4 - Exemplo tela de apresentação de conteúdo - 2.2 </figure>
+           
+           
+           
+         
+</figure>
+
+
+
+#### Requisito atendido
+
+RF-06: A aplicação deve proporcionar um padrão para exibição de conteúdos com atividades interativas ao longo dos assuntos tratados. 
+
+
+#### Artefatos da funcionalidade
+- StyleWebDevPage.css
+- DevWebPage.html
+- dev.js
+
+- Math.html
+- StyleMath.css
+- math.js
+
+
+#### Estrutura de Dados
+
+[DevWebPage.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/codigo-fonte/Sub/dev%20web/DevWebPage.html)
+
+
+#### Instruções de acesso
+
+[Adicione as orientações de acesso à funcionalidade]
+
+
+#### Responsável
+
+Responsável: Moisés
+
+
 
 
 > **Links Úteis**:
