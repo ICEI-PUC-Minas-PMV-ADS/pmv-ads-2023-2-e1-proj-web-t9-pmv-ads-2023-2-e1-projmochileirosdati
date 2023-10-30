@@ -4,13 +4,11 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 ### Tela Home Page
 
 
-O acesso a tela de login poderá ser acessado ao abrir o site. As estruturas de dados foram baseadas em HTML e CSS.
+O acesso a tela de Home Page poderá ser acessado ao abrir o site, visto que a mesma aprensenta o site e serve como link as demais páginas do site. As estruturas de dados foram baseadas em HTML e CSS.
 
 
-<figure>
-          <figcaption>Figura 1 - Home Page</figure>
-</figure>
-
+![Home Page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144865205/4437200c-2cd1-4742-9ff6-1e427fcce48f)
+<figcaption>Figura 1 - Home Page</figure>
 
 
 #### Requisito atendido
@@ -20,8 +18,8 @@ Rf-05: A aplicação deve conter uma página principal para explicação do cont
 
 
 #### Artefatos da funcionalidade
-- login.css
-- login.html
+- HomePage.css
+- HomePage.html
 
 
 #### Estrutura de Dados
