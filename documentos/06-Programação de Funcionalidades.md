@@ -13,7 +13,8 @@ O acesso a tela de Home Page poderá ser acessado ao abrir o site, visto que a m
 
 #### Requisito atendido
 
-RF-01: A aplicação deve conceder ao usuário a opção de cadastro e criação de conta;
+RF-01: A aplicação deve conceder ao usuário a opção de cadastro e criação de conta.
+
 Rf-05: A aplicação deve conter uma página principal para explicação do conteúdo da mesma.
 
 
