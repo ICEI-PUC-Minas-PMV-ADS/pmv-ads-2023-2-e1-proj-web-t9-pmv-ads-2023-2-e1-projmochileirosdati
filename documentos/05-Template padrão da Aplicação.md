@@ -22,7 +22,7 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 <h3><b>Tela de cadastro de usuários</b></h3>
 <p>Permite realizar cadastro dos usuários, exibe imagens e logo do site e campos para inserção de dados cadastrais.</p>
 <figure> 
-  <img src="https://user-images.githubusercontent.com/81182674/167681053-7715d698-610b-4717-8eca-79484ca4f596.png">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/TelaCadastroExemplo.png?raw=true">
   <figcaption>Figura 2 - Tela de cadastro.     
 </figure> 
 <hr>
