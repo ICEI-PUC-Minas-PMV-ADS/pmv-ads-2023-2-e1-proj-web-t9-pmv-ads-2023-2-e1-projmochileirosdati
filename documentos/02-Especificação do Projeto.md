@@ -6,7 +6,7 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil 1 - Estudante </th>
+<th colspan="2">Perfil 1 - Estudante universitário</th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
@@ -26,7 +26,7 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil 2 - Estudante</th>
+<th colspan="2">Perfil 2 - Estudante autodidata</th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
@@ -108,11 +108,9 @@
 
 |ID      | Descrição               |Prioridade | 
 |-------|---------------------------------|----|
-| RNF-01 | A aplicação deve ter bom nível de contraste entre os 
-elementos da tela, com colorações intuitivas para o conteúdo demonstrado. | MÉDIA   | 
+| RNF-01 | A aplicação deve ter bom nível de contraste entre os elementos da tela, com colorações intuitivas para o conteúdo demonstrado. | MÉDIA   | 
 | RNF-02 | A aplicação deve ser publicada em um ambiente acessível ao público na Internet.  | ALTA | 
-| RNF-03 |  aplicação deve ser compatível com os navegadores O site deve ser compatível com os principais navegadores do 
-mercado: Google Chrome, Firefox e Microsoft Edge.  | ALTA | 
+| RNF-03 |  aplicação deve ser compatível com os navegadores O site deve ser compatível com os principais navegadores do mercado: Google Chrome, Firefox e Microsoft Edge.  | ALTA | 
 | RNF-04 | A aplicação deve ser responsiva, com adaptação para diferentes dispositivos.  | ALTA | 
 | RNF-05 | A aplicação deve conter um padrão nas páginas com conteúdo. |MÉDIA  | 
 | RNF-06 | A aplicação não deve expor publicamente entre usuários dados de cunho privativo. | ALTA | 
