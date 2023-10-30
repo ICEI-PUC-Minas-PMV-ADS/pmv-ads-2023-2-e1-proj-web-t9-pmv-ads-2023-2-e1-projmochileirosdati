@@ -11,7 +11,7 @@ O acesso a tela de Home Page poderá ser acessado ao abrir o site, visto que a m
 <figcaption>Figura 1 - Home Page</figure>
 
 
-#### Requisito atendido
+#### Requisitos atendidos
 
 RF-01: A aplicação deve conceder ao usuário a opção de cadastro e criação de conta.
 
