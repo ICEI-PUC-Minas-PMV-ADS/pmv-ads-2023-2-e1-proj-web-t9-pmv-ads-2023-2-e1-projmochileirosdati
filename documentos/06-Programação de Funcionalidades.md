@@ -16,7 +16,6 @@ Exemplo da tela de login (imagem 1)
     <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/TelaLoginExemplo.png?raw=true">
           <figcaption>Figura 1 - Exemplo tela de login</figure>
 </figure>
-(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/TelaLoginExemplo.png?raw=true)
 
 
 
