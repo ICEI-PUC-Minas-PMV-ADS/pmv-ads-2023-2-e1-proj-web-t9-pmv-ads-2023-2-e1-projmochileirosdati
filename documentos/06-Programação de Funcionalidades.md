@@ -8,7 +8,6 @@ O acesso a tela de login poderá ser acessado ao abrir o site. As estruturas de 
 
 
 <figure>
-    <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/TelaLoginExemplo.png?raw=true">
           <figcaption>Figura 1 - Home Page</figure>
 </figure>
 
@@ -16,18 +15,18 @@ O acesso a tela de login poderá ser acessado ao abrir o site. As estruturas de 
 
 #### Requisito atendido
 
-RF-02: A aplicação deve permitir ao usuário efetuar o login na conta caso desejado
+RF-01: A aplicação deve conceder ao usuário a opção de cadastro e criação de conta;
+Rf-05: A aplicação deve conter uma página principal para explicação do conteúdo da mesma.
 
 
 #### Artefatos da funcionalidade
 - login.css
 - login.html
-- login.js
 
 
 #### Estrutura de Dados
 
-[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/codigo-fonte/Sub/login/login.html)
+[homepage.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/codigo-fonte/HomePage.html)
 
 
 #### Instruções de acesso
@@ -37,7 +36,7 @@ RF-02: A aplicação deve permitir ao usuário efetuar o login na conta caso des
 
 #### Responsável
 
-Responsável: Douglas
+Responsável: Amaury
 
 
 ### Tela de login
