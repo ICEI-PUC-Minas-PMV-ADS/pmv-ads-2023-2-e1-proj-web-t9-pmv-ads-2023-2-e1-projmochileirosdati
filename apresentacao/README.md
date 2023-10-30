@@ -1,15 +1,14 @@
 # Apresentação da Solução
 
-## Apresentação Etapa1
-
-
-## Slides Etapa2
+## Slides dea apresentação Etapa1
 
 ![Diagrama Slides apresentacao](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144865205/e72f2ca9-d439-4fb5-bb38-30ae1932558f)
 
 ### Slide PDF
 
 [GUIA DO MOCHILEIRO DA TI.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/files/12797907/GUIA.DO.MOCHILEIRO.DA.TI.pdf)
+
+## ETAPA 3
 
 ## Vídeo de apresentação
 
