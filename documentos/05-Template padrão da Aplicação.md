@@ -13,32 +13,26 @@ As páginas terão como elementos padrões o menu de navegação, o header e o f
 O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/tree/main/codigo-fonte">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/tree/main/documentos/img">aqui</a>.
 
 <h3><b>Tela para realização do login</b></h3>
-<p>Permite o usuário realizar login</p>
+<p>Permite o usuário realizar login, exibe imagem e logo tipo do site e campos para inserção de dados</p>
 <figure> 
-  <img src="https://user-images.githubusercontent.com/81182674/167680178-5869794e-1133-4dbd-aed9-31eef5c54d50.png">
-  <figcaption> Figura 1 - Tela de Livros
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/TelaLoginExemplo.png?raw=true">
+  <figcaption> Figura 1 - Tela de login.
 </figure> 
 
-<h3><b>Tela de visualização dos tutores e disciplinas</b></h3>
-<p>Exibe informações sobre os tutores/alunos, disciplinas e contato.</p>
+<h3><b>Tela de cadastro de usuários</b></h3>
+<p>Permite realizar cadastro dos usuários, exibe imagens e logo do site e campos para inserção de dados cadastrais.</p>
 <figure> 
   <img src="https://user-images.githubusercontent.com/81182674/167681053-7715d698-610b-4717-8eca-79484ca4f596.png">
-  <figcaption>Figura 2 - Tela de Tutorias      
+  <figcaption>Figura 2 - Tela de cadastro.     
 </figure> 
 <hr>
   
-<p>Para a criação do logotipo do site foi utilizada a cor amarela, pois esta cor remete a aspectos do conhecimento e sabedoria (PATEL, 2021). A utilização da imagem de um marca-texto foi escolhida por ser algo presente no dia-a-dia dos estudantes.</p>
+<p>Para a criação do logotipo do site foi utilizada as cores preto e branco. A utilização da imagem de uma mochila foi escolhida pela sua representatividade com o nome do projeto e com a maior parte do público alvo do projeto, os estudantes.</p>
 
 <figure> 
   <img src="[https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/documentos/img/Marca texto.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/documentos/img/Marca texto.png?raw=true)">
-    <figcaption>Figura 3 - Logotipo da aplicação web Vida de Estudante
+    <figcaption>Figura 3 - Logotipo da aplicação web Mochileiros da TI.
 </figure> 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
 
 <h3><b>Tela de apresentação e navegação principal</b></h3>
 <p>Exibe informações sobre os intuitos do site e orienta o uso da mesma.</p>
