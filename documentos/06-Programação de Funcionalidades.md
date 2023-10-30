@@ -85,13 +85,13 @@ O acesso a tela de login poderá ser feito através da opção de menu “Login�
 
 <figure>
     <img src="https://user-images.githubusercontent.com/144903154/278919692-750c19f2-d28c-46c9-9bf5-25441c9d614a.png">
-           <figcaption>Figura 3 - Exemplo tela de apresentação de conteúdo </figure>
+           <figcaption>Figura 3 - Exemplo tela de apresentação de conteúdo Dev Web </figure>
           <img src="https://user-images.githubusercontent.com/144903154/278919694-24620628-042c-4bb4-9e1c-fe453681ae9a.png">
-           <figcaption>Figura 3.1 - Exemplo tela de apresentação de conteúdo </figure>
+           <figcaption>Figura 3.1 - Exemplo tela de apresentação de conteúdo Dev Web </figure>
            <img src="https://user-images.githubusercontent.com/144903154/278919696-eb5e601e-3dd1-4ec6-8430-601e748af785.png">
-           <figcaption>Figura 4 - Exemplo tela de apresentação de conteúdo </figure>
+           <figcaption>Figura 4 - Exemplo tela de apresentação de conteúdo Matemática básica </figure>
            <img src="https://user-images.githubusercontent.com/144903154/278919690-c84b7caa-fce6-42ea-8993-67a71b0b6d28.png">
-           <figcaption>Figura 4.1 - Exemplo tela de apresentação de conteúdo </figure>
+           <figcaption>Figura 4.1 - Exemplo tela de apresentação de conteúdo Matemática básica </figure>
            
            
            
