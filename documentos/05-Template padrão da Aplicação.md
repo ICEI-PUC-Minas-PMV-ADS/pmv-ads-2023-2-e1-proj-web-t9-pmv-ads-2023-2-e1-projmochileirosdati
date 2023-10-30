@@ -1,9 +1,16 @@
 # Template padrão da Aplicação
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+O layout padrão do site foi construído com as linguagens de marcação HTML e CSS, e a linguagem de programação JavaScript foi utilizada para a construção do menu responsivo.
 
-[Apresente a estrutura padrão da sua aplicação.]
+As páginas terão como elementos padrões o menu de navegação, o header e o footer, além dos elementos de identidade visual citados abaixo:
 
+<ul>
+<li>Cores: RGB: #4ED4F9, #4799EB,#6F767A, #1B2D3D e #253244;</li>
+<li>Font-family: Arial, Helvetica, sans-serif.</li>
+<li>Font-size: 20px. </li>
+</ul>
+
+O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/codigo-fonte">aqui</a>. As imagens e ícones utilizados no projeto estão disponíveis <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/img">aqui</a>.
 > **Links Úteis**:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
