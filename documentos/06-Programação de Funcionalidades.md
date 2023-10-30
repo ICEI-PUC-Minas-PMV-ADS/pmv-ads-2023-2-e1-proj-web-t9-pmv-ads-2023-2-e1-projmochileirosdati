@@ -4,7 +4,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
-### RF-02 A aplicação deve permitir ao usuário efetuar o login na conta caso desejado
+### Tela de login
 
 Responsável: Douglas
 
@@ -21,12 +21,13 @@ Exemplo da tela de login (imagem 1)
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+RF-02: A aplicação deve permitir ao usuário efetuar o login na conta caso desejado
 
 
 #### Artefatos da funcionalidade
-
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
+- login.css
+- login.html
+- login.js
 
 
 #### Estrutura de Dados
