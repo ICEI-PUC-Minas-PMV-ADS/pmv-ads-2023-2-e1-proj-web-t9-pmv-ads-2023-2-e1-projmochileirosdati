@@ -35,6 +35,6 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 <p>Para a criação do logotipo do site foi utilizada as cores preto e branco. A utilização da imagem de uma mochila foi escolhida pela sua representatividade com o nome do projeto e com a maior parte do público alvo do projeto, os estudantes.</p>
 
 <figure> 
-  <img src="[https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/documentos/img/Marca texto.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/documentos/img/Marca texto.png?raw=true)">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/logo%20mochila.png?raw=true">
     <figcaption>Figura 3 - Logotipo da aplicação web Mochileiros da TI.
 </figure> 
