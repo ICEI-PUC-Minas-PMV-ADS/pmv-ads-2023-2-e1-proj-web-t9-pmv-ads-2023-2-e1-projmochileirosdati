@@ -1,6 +1,44 @@
 # Programação de Funcionalidades
 
 Implementação da aplicação descritas por meio dos requisitos codificados. 
+### Tela Home Page
+
+
+O acesso a tela de login poderá ser acessado ao abrir o site. As estruturas de dados foram baseadas em HTML e CSS.
+
+
+<figure>
+    <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/TelaLoginExemplo.png?raw=true">
+          <figcaption>Figura 1 - Home Page</figure>
+</figure>
+
+
+
+#### Requisito atendido
+
+RF-02: A aplicação deve permitir ao usuário efetuar o login na conta caso desejado
+
+
+#### Artefatos da funcionalidade
+- login.css
+- login.html
+- login.js
+
+
+#### Estrutura de Dados
+
+[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/codigo-fonte/Sub/login/login.html)
+
+
+#### Instruções de acesso
+
+[Adicione as orientações de acesso à funcionalidade]
+
+
+#### Responsável
+
+Responsável: Douglas
+
 
 ### Tela de login
 
@@ -10,7 +48,7 @@ O acesso a tela de login poderá ser feito através da opção de menu “Login�
 
 <figure>
     <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/TelaLoginExemplo.png?raw=true">
-          <figcaption>Figura 1 - Exemplo tela de login</figure>
+          <figcaption>Figura 2 - Exemplo tela de login</figure>
 </figure>
 
 
