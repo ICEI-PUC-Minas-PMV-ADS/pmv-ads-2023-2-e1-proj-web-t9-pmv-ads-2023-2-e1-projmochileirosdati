@@ -38,5 +38,5 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/logo%20mochila.png?raw=true">
-    <figcaption>Figura 3 - Logotipo da aplicação web Mochileiros da TI.
+    <figcaption>Figura 4 - Logotipo da aplicação web Mochileiros da TI.
 </figure> 
