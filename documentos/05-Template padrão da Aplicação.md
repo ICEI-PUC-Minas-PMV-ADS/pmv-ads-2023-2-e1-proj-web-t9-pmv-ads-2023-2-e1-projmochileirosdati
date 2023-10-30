@@ -15,20 +15,20 @@ O código utilizado para a construção dos elementos citados, incluindo a respo
 <h3><b>Tela de apresentação e navegação principal</b></h3>
 <p>Exibe informações sobre os intuitos do site e orienta o uso da mesma.</p>
 ![Home Page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144865205/4437200c-2cd1-4742-9ff6-1e427fcce48f)
-Figura 1 - Tela da Home Page
+<figcaption>Figura 1 - Home Page</figure>
     
 <h3><b>Tela para realização do login</b></h3>
 <p>Permite o usuário realizar login, exibe imagem e logo tipo do site e campos para inserção de dados</p>
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/TelaLoginExemplo.png?raw=true">
-  <figcaption> Figura 1 - Tela de login.
+  <figcaption> Figura 2 - Tela de login.
 </figure> 
 
 <h3><b>Tela de cadastro de usuários</b></h3>
 <p>Permite realizar cadastro dos usuários, exibe imagens e logo do site e campos para inserção de dados cadastrais.</p>
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/TelaCadastroExemplo.png?raw=true">
-  <figcaption>Figura 2 - Tela de cadastro.     
+  <figcaption>Figura 3 - Tela de cadastro.     
 </figure> 
 <hr>
   
