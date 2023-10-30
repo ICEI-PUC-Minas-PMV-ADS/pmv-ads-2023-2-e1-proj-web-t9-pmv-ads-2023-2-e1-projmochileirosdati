@@ -1,4 +1,4 @@
-# Instruções de utilização
+/# Instruções de utilização
 
 ## Estratégia de Organização de Codificação 
 
@@ -15,7 +15,9 @@ O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um
 - Adicionando estrutura dos repositórios
 - Adicioanando página home(HTML e CSS) e pasta img
 - Adicionando subpastas para as demais páginas
-- 
+### [0.1.0] - 29/10/2023
 - Adicionando templates das páginas de conteúdo do site
 - Adicionando arquivos HTML e CSS nas respectivas pastas
+### [0.1.0] - 29/10/2023
+- Adicionado templates das páginas de cadastro elogin do site (arquivos HTML, CSS, JS e imagens)
   
