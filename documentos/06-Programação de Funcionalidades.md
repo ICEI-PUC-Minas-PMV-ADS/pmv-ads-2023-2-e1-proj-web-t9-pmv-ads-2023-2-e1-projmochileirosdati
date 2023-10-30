@@ -10,6 +10,10 @@ Responsável: Douglas
 
 O acesso a tela de login poderá ser feito através da opção de menu “Login”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
+Exemplo da tela de login (imagem 1)
+
+(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/documentos/img/TelaLoginExemplo.png?raw=true)
+
 
 
 #### Requisito atendido
