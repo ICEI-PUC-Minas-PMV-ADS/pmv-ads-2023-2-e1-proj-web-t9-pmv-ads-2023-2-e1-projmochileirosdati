@@ -19,5 +19,5 @@ O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um
 - Adicionando templates das páginas de conteúdo do site
 - Adicionando arquivos HTML e CSS nas respectivas pastas
 ### [0.1.0] - 29/10/2023
-- Adicionado templates das páginas de cadastro elogin do site (arquivos HTML, CSS, JS e imagens)
+- Adicionado templates das páginas de cadastro e login do site (arquivos HTML, CSS, JS e imagens)
   
