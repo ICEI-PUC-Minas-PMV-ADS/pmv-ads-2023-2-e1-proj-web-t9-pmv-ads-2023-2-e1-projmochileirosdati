@@ -18,7 +18,7 @@ Rf-05: A aplicação deve conter uma página principal para explicação do cont
 
 
 #### Artefatos da funcionalidade
-- HomePage.css
+- StyleHomePage.css
 - HomePage.html
 
 
