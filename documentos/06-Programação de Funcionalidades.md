@@ -6,7 +6,6 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 ### Tela de login
 
-Responsável: Douglas
 
 O acesso a tela de login poderá ser feito através da opção de menu “Login”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
@@ -42,7 +41,7 @@ RF-02: A aplicação deve permitir ao usuário efetuar o login na conta caso des
 
 #### Responsável
 
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
+Responsável: Douglas
 
 
 
