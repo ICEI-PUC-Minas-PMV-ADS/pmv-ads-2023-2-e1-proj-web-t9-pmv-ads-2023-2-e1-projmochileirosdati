@@ -14,4 +14,8 @@ O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um
 #### 'Adicionado/'Atualizado/Removido
 - Adicionando estrutura dos repositórios
 - Adicioanando página home(HTML e CSS) e pasta img
-- Adicionando subpastas para as demais páginas 
+- Adicionando subpastas para as demais páginas
+- 
+- Adicionando templates das páginas de conteúdo do site
+- Adicionando arquivos HTML e CSS nas respectivas pastas
+  
