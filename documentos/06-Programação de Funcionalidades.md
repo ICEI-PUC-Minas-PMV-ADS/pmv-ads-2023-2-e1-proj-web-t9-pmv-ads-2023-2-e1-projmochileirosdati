@@ -4,9 +4,12 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
-### Título da funcionalidade
+### RF-02 A aplicação deve permitir ao usuário efetuar o login na conta caso desejado
 
-[Adicione imagem da funcionalidade/tela]
+Responsável: Douglas
+
+O acesso a tela de login poderá ser feito através da opção de menu “Login”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+
 
 
 #### Requisito atendido
