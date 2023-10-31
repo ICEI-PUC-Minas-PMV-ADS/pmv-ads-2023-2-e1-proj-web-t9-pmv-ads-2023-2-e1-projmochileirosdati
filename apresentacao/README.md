@@ -14,7 +14,7 @@
 
 ### Slide PDF
 
-[Guia do Mochileiro da TI pdf.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/files/13211652/Guia.do.Mochileiro.da.TI.pdf.pdf)
+[Guia do Mochileiro da TI 0.3.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/files/13211652/Guia.do.Mochileiro.da.TI.pdf.pdf)
 
 ## Vídeo de apresentação
 
