@@ -1,0 +1,38 @@
+div
+{  
+  display:block;
+  background-color: #6f767a;
+  border-radius: 10px;
+  text-align:center;
+  height: 700px;
+  margin-inline: 10%;
+  border: 2px solid #253244;
+  }
+body
+{
+    background-color:#4ed4f9;
+    
+}
+input{
+  width: 200px;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 15px;
+  border:#6f767a;
+}
+
+button.login-button{
+  background-color: #1b2d3d;
+  color: whitesmoke;
+  padding: 10px 40px;
+  border-radius: 10px;
+  font-size: 20px;
+  border: #6f767a;
+}
+::placeholder{
+  text-align: center;
+  color: #253244;
+}
+img.imgestud{
+  margin-top:5%;
+}
