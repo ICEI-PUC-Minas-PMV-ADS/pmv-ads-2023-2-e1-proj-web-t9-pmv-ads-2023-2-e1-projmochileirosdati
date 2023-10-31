@@ -10,7 +10,7 @@
 
 ## ETAPA 3
 
-![Mesclado slide etapa3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144865205/48afa485-6786-4bed-b2d1-76fa6c0cfc9b)
+![Compilado Slide Etapa3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144865205/76dde6bf-455a-497a-be01-3767ef970449)
 
 ###Slide PDF
 
