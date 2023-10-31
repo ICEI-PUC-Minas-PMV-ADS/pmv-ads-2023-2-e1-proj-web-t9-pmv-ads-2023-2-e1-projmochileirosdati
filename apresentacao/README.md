@@ -10,6 +10,12 @@
 
 ## ETAPA 3
 
+![Mesclado slide etapa3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144865205/48afa485-6786-4bed-b2d1-76fa6c0cfc9b)
+
+###Slide PDF
+
+[Guia do Mochileiro da TI pdf.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/files/13211652/Guia.do.Mochileiro.da.TI.pdf.pdf)
+
 ## Vídeo de apresentação
 
 
