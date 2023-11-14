@@ -66,7 +66,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Documentos do projeto               | GitHub                             |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/tree/main|
 | Projeto de Interface                | MarvelApp                          |https://marvelapp.com/prototype/6dhf14h|
 | Gerenciamento do Projeto            | Trello                             |https://trello.com/b/WvxMsfda/gp-web-front|
-| Hospedagem                          | GitHub Pages                       | http://....                            |
+| Hospedagem                          | GitHub Pages                       |https://amaurymagno.github.io/GuiaMochileirosdaTI/codigo-fonte/HomePage.html                           |
 
 
 ### Estratégia de Organização de Codificação 
