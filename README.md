@@ -44,7 +44,7 @@ duvidas e debates será possivel aproximar o conhecimento e o estudante de forma
 
 # Hospedagem
 
-* <a href="icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/codigo-fonte/HomePage.html">Hospedagem</a>
+* <a href="HomePage.html/codigo-fonte/icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/README.md">Hospedagem</a>
 
 # Código-Fonte
 
