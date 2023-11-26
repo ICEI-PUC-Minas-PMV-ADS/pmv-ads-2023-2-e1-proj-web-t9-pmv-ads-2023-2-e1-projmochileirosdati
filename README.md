@@ -44,12 +44,12 @@ duvidas e debates será possivel aproximar o conhecimento e o estudante de forma
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/codigo-fonte/HomePage.html">Código Fonte</a>
 
 # Código-Fonte
 
-* <a href="codigo-fonte/README.md">Código Fonte</a>
+* <a href="Codigo-fonte/README.md">Código Fonte</a>
 
 # Apresentação
 
-* <a href="apresentacao/README.md">Apresentação do Projeto</a>
+* <a href="Apresentacao/README.md">Apresentação do Projeto</a>
