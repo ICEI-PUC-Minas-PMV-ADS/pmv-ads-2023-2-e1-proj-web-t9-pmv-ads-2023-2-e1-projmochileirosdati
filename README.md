@@ -44,12 +44,12 @@ duvidas e debates será possivel aproximar o conhecimento e o estudante de forma
 
 # Hospedagem
 
-* <a href="HomePage.html/Codigo-fonte/icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/README.md">Hospedagem</a>
+* <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/codigo-fonte/HomePage.html">Hospedagem</a>
 
 # Código-Fonte
 
-* <a href="Codigo-fonte/README.md">Código Fonte</a>
+* <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/tree/main/codigo-fonte">Código Fonte</a>
 
 # Apresentação
 
-* <a href="Apresentacao/README.md">Apresentação do Projeto</a>
+* <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/tree/main/apresentacao">Apresentação do Projeto</a>
