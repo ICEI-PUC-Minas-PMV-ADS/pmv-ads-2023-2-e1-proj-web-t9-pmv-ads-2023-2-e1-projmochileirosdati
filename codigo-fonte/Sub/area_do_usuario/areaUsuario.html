@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/codigo-fonte/Sub/area_do_usuario/areaUsuariostyle.css">
+    <script refer src="areaUsuario.js"></script>
+    <title>Document</title>
+</head>
+    <body onload="myfunction()">
+        <a href="../../HomePage.html">
+             <img src="/codigo-fonte/img/uma-mochila-escolar.png" width="80px">
+        </a>
+        <div id="nomeUsuario"> 
+            <p id="demo"></p>
+        </div>
+        <div class="foto"><img src="/codigo-fonte/Sub/cadastro/img/login-logo.png" width="100px"></div>
+        <div class="coments">
+            <div id="ordem">Compartilhe suas experiências e conhecimentos</div>
+            <form id="comentario">
+                <textarea name="text" rows="15" cols="50" placeholder="Insira seu comentário..." ></textarea>
+            </form>
+            <div class="botao">
+                <button onclick="compartilhar()">Compartilhar</button>
+            </div>
+        </div>
+        <div id="dadosUsuario">
+            <div id="infUser">Informações <br>do usuário</div>
+            
+            <li id="infnome">Nome</li>
+            <li id="infemail">Email</li>
+            
+        </div>
+        <div id="inserirPagina">
+            <p>Insira aqui links sobre qualquer assunto interessante que deseje compartilhar</p>
+            <form id="inputlinks">
+                <textarea name="link" row="3" cols="50" placeholder="Insira um link"></textarea>
+            </form>
+        </div>
+</body>
+</html>

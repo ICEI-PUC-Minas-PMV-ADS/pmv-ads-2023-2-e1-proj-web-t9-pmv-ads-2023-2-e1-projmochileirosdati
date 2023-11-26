@@ -4,7 +4,6 @@ function entrar(){
     let email_login = document.querySelector("#email_login")
     let senha_login = document.querySelector("#senha_login")
     
-    let msgError = document.querySelector("#msgError")
     let listaUser = []
     let userValid = {       
         email: "",
@@ -29,7 +28,7 @@ function entrar(){
   if(email_login.value == userValid.email && senha_login.value == userValid.senha && email_login.value != "" && senha_login.value != ""){
    
     
-    window.location.href = "../../HomePage.html"
+    window.location.href="/codigo-fonte/Sub/area_do_usuario/areaUsuario.html"
     
     
     //let mathRandom = Math.random().toString(16).substr(2) 
@@ -37,7 +36,7 @@ function entrar(){
     
     //localStorage.setItem("token", token)
 
-    //localStorage.setItem('userLogado', JSON.stringify(userValid))
+    localStorage.setItem('userLogado', JSON.stringify(userValid))
     //localStorage.setItem('nome', JSON.stringify(nomeUser))
     //localStorage.setItem('telefone', JSON.stringify(telefoneUser))
     //localStorage.setItem('opcoes', JSON.stringify(opcoesUser))
