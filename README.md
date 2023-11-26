@@ -44,7 +44,7 @@ duvidas e debates será possivel aproximar o conhecimento e o estudante de forma
 
 # Hospedagem
 
-* <a href="README.md/apresentacao">Hospedagem</a>
+* <a href="/apresentacao">Hospedagem</a>
 
 # Código-Fonte
 
