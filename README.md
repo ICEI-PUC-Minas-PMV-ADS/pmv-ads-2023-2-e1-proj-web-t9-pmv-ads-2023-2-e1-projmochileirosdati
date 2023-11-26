@@ -48,8 +48,8 @@ duvidas e debates será possivel aproximar o conhecimento e o estudante de forma
 
 # Código-Fonte
 
-* <a href="pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/tree/main/codigo-fonte">Código Fonte</a>
+* <a href="pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/codigo-fonte">Código Fonte</a>
 
 # Apresentação
 
-* <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/tree/main/apresentacao">Apresentação do Projeto</a>
+* <a href="pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/apresentacao">Apresentação do Projeto</a>
