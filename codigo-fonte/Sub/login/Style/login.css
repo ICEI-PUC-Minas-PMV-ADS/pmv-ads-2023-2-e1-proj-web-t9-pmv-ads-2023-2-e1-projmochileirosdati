@@ -1,4 +1,7 @@
-div
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.forma
 {  
   display:block;
   background-color: #6f767a;
@@ -18,7 +21,9 @@ input{
   padding: 10px;
   border-radius: 20px;
   font-size: 15px;
-  border:#6f767a;
+  border: 3px solid #6f767a
+
+  
 }
 
 button.login-button{
@@ -35,4 +40,12 @@ button.login-button{
 }
 img.imgestud{
   margin-top:5%;
+}
+#dadosIncorretos{
+  display: none;
+   color: black;
+   background-color:white;
+   border-radius: 8px;
+   font-size: 20px;
+   border: 3px solid red;
 }

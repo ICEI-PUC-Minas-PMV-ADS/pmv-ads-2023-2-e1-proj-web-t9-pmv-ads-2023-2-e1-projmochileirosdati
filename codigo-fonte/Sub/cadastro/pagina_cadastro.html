@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./Style/pagina_cadastro.css">
+    <script refer src="Style/scriptcCadastro.js"></script>
     <title>Cadastre-se</title>
 </head>
 <body>
@@ -16,12 +17,12 @@
     <main>
           <h1>Cadastre-se</h1>
           <div class="todos">
-               <form class="dados">
-                  <input type="text" name = "name" id="name" required placeholder="Nome"><br>
-                  <input type="text" name = "Sobrenome" id="sobrenome" required placeholder="Sobrenome"><br>
+               <form name= "formulario" class="dados">
+                  <input type="text" name = "nome" id="nome" required placeholder="Nome"><br>
+                  <input type="text" name = "sobrenome" id="sobrenome" required placeholder="Sobrenome"><br>
                   <input type="email" name = "email" id="email" required placeholder="Email"><br>
                   <input type="password" name = "senha" id="senha" required placeholder="Senha"><br>
-                  <input type="password" name = "senha" id="senha" required placeholder="Confirme sua senha"><br>
+                  <input type="password" name = "confSenha" id="confSenha" required placeholder="Confirme sua senha"><br>
                </form>
                <div class="fotocomen">
                 <div class="label">
@@ -34,7 +35,7 @@
                 </div>
           </div>
           <div class="botao">
-          <button>Cadastrar</button>
+          <button onclick="cadastrar()">Cadastrar</button>
           </div>
 
          
