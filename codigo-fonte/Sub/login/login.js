@@ -12,8 +12,8 @@ function entrar(){
        
       }
 
-      listaUser = JSON.parse(localStorage.getItem("listaUser"))
-  listaUser.forEach((item) => { 
+    listaUser = JSON.parse(localStorage.getItem("listaUser"))
+    listaUser.forEach((item) => { 
     if(email_login.value == item.emailUser && senha_login.value == item.SenhaUser){
 
 
@@ -28,7 +28,7 @@ function entrar(){
   if(email_login.value == userValid.email && senha_login.value == userValid.senha && email_login.value != "" && senha_login.value != ""){
    
     
-    window.location.href="/codigo-fonte/Sub/area_do_usuario/areaUsuario.html"
+    window.location.href="../area_do_usuario/areaUsuario.html"
     
     
     //let mathRandom = Math.random().toString(16).substr(2) 

@@ -1,0 +1,262 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(90deg, #4ED4F9, #4799EB);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: grid;
+    
+}
+.menu-h{
+    width: 90vw;
+    list-style: none;
+    padding: 0;
+}
+.menu-h > li{
+    display: inline;
+    text-decoration: none;
+    justify-content: end;
+}
+.menu-h > li > a{
+    display: inline-block;
+    float: right;
+    margin: 1px 5px 1px;
+    padding: 10px;
+    text-decoration: none;
+    color: #0f3357;
+    border-radius: 20px;
+    transition: transform 1s ease;
+}
+.menu-h > li > a:hover{
+    background-color: #6F767A;
+    transition: transform 1s ease;
+}
+.navegation{
+    display: grid;
+    background-color: whitesmoke;
+    text-align: center;
+    color:#253244;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;  
+}
+.resume{
+    font-size: 30px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    margin: 10px;
+    border-radius: 10px;
+    height: 300px;
+}
+.minimapa{
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    border: 0px;
+    box-sizing: border-box;
+    height: 350px;
+}
+.minimapa .bloco{
+    margin: 10px;
+    padding: 20px;
+    align-items: top;
+    width: calc(50vw - 30px);
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 300px;
+}
+.fundopainel{
+    background-color:#6F767A;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+    border-radius: 20px;
+    border: solid 10px #1B2D3D;
+
+}
+.painel{
+    height: 100%;
+    width: 80%;
+    margin: 20px;
+    display: flex;
+    flex-flow: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.painel > a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    background-color: #0f3357;
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+}
+
+input[type=radio]{
+    display:none;
+}
+
+.comentario{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    height: 450px;
+    margin: 10px 10px 20px;  
+}
+.coment{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 5%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 50%;
+    height: 100%;
+
+}
+.card{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    width: 260px;
+    height: 240px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    position: absolute;
+    cursor: pointer;
+    transition: transform .5s ease;
+}
+.card>p{
+    display: block;
+}
+.posts{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border-radius: 30px;
+    width: 800px;
+    height: 250px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    position: relative;
+    
+}
+.post{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    margin: 10px;
+    height: 80px;
+    transition: transform .5s ease-in-out;
+}
+.Autores{
+    margin: 50px 10px 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;    
+}
+.circle{
+    width: 95vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    box-sizing: border-box;
+}
+.circleText{
+    margin: 20px;
+    background-color: whitesmoke;
+    border: solid #1B2D3D;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.circleText>p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #1B2D3D;
+}
+
+#card-A:checked ~ .coment #tr-A, 
+#card-B:checked ~ .coment #tr-B, 
+#card-C:checked ~ .coment #tr-C{
+    transform: translateX(0) scale(1);
+    border: solid 3px #1B2D3D;
+    transition: transform .5s ease;
+    opacity: 1;
+    z-index: 1;
+}
+#card-A:checked ~ .posts #tr-A, 
+#card-B:checked ~ .posts #tr-B,
+#card-C:checked ~ .posts #tr-C{
+    color: #1B2D3D;
+    z-index: 1;
+}
+
+#card-A:checked ~ .coment #tr-B,
+#card-B:checked ~ .coment #tr-C,
+#card-C:checked ~ .coment #tr-A{
+    transform: translateX(50%) scale(.8);
+    transition: transform .5s ease;
+    opacity: .4;
+    z-index: 0;
+}
+
+#card-A:checked ~ .posts #tr-B,
+#card-B:checked ~ .posts #tr-C,
+#card-C:checked ~ .posts #tr-A{
+    opacity: 0;
+    z-index: 0;
+}
+
+#card-A:checked ~ .coment #tr-C,
+#card-B:checked ~ .coment #tr-A,
+#card-C:checked ~ .coment #tr-B{
+    transform: translateX(-50%) scale(.8);
+    transition: transform .5s ease;
+    opacity: .4;
+    z-index: 0;
+}
+
+#card-A:checked ~ .posts #tr-C,
+#card-B:checked ~ .posts #tr-A,
+#card-C:checked ~ .posts #tr-B{
+    opacity: 0;
+    z-index: 0;
+
+}

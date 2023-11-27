@@ -1,0 +1,13 @@
+{
+  "name": "codigo-fonte",
+  "version": "1.0.0",
+  "description": "Site Guia Mochileiros da TI para TCC Faculdade PUC-MG",
+  "main": "./js/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Amaury Magno",
+  "license": "ISC",
+  "type": "module"
+}

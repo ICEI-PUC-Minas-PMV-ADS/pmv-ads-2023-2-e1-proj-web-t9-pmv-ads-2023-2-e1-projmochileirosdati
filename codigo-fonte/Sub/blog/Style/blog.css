@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(90deg, #4ED4F9, #4799EB);
+}
+header{
+    width: 100%;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+/* ESTE NAV SÓ DEVE APARECER QUANDO TIVER UM USUÁRIO LOGADO*/
+#naveUsuario{ 
+    max-width: 200px;
+    max-height: 70px;
+    display: none;
+    background-color: #25324444;
+    padding: 3px 100px 3px 5px;
+    border-radius: 50px;
+}
+.fotoUsuario{
+    width: 60px;
+    height: 60px;
+    display: lex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: dashed 3px #494444;
+    border-radius: 50%;
+}
+.areaNomeUsuario{
+    vertical-align: top;
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    height: auto;
+    margin: 10px;
+    padding: 3px 0 0 8px;
+}
+#userName{
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+
+}
+/* ESTE NAV SÓ DEVE APARECER QUANDO TIVER UM USUÁRIO LOGADO*/
+#nave{
+    display: block;
+    justify-content: end;
+    float: right;
+    margin-right: 20px;
+}
+.nave > a{
+    margin: 1px 5px 1px;
+    padding: 10px;
+    justify-content: end;
+    float: right;
+    text-decoration: none;
+    color: #0f3357;
+    border-radius: 20px;
+    transition: transform 1s ease;
+}
+.nave > a:hover{
+    background-color: #6F767A;
+    transition: transform 1s ease;
+}
+header h1{
+    margin: 3px;
+    padding: 0;
+    margin-left: 10%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+
+}
+section{
+    padding: 10px;
+    margin-bottom: 10px;
+    display: grid;
+    grid-template-areas: 
+                "fig head head" 
+                "fig art art"
+                ". foot foot";          
+}
+figure{
+    grid-area: fig;
+    padding-right: 5px;
+}
+.fotoUsuarioComentario{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: dashed 3px #494444;
+    border-radius: 50%;
+}
+.usuario{
+    grid-area: head;
+    display: flex;
+    padding-left: 0;
+    padding-bottom: 10px;
+}
+.usuario h5{
+    padding-left: 15px;
+}
+article{
+    grid-area: art;
+    padding: 5px 5px 0 10px;
+}
+article h3{
+    margin-bottom: 5px;
+}
+article h4{
+    margin-left: 5px;
+    width: auto;
+    max-width: 750px;
+}
+aside{
+    display: flex;
+    margin: 5px 0px 2px 15px;
+}
+.avaliacao .estrelas{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0 5px;
+    width: 100px;
+    height: 30px;
+}
+
+/* INICIO DA CONSTRUÇÃO DA ESTRELA*/
+#estrela{
+    position: relative;
+    display: block;
+    width: 0px;
+    height: 0px;
+    margin-top: 8px;
+    border-right: 10px solid transparent;
+    border-bottom: 7px solid #494444;
+    border-left: 10px solid transparent;
+    transform: rotate(35deg);
+    cursor: pointer;
+}
+
+#estrela:before{
+    border-right: 3px solid transparent; 
+    border-bottom: 8px solid #494444;
+    border-left: 3px solid transparent;
+    position: absolute;
+    height: 0;
+    width: 0;
+    top: -4.7px;
+    left: -6.6px;
+    display: block;
+    content: '';
+    transform: rotate(-35deg);
+    cursor: pointer;
+}
+
+#estrela:after{
+    position: absolute;
+    display: block;
+    top: 1px;
+    left: -11.5px;
+    border-right: 10px solid transparent;
+    border-bottom: 7px solid #494444;
+    border-left: 10px solid transparent;
+    transform: rotate(-70deg);
+    content: '';
+    cursor: pointer;
+}
+
+/* FINALIZACAO DA CONSTRUCAO DA ESTRELA*/
+
+aside h5{
+    margin-top:-2px;
+    padding: 5px;
+    display: flex;
+    font-size: 12px;
+    text-align: center;
+    align-items: center;
+    background-color: transparent;
+    border-radius: 20px;
+    margin-left: 10px;
+    transition: transform 2s ease;
+    cursor: pointer;
+}
+aside h5:hover{
+    background-color: #49444421;
+    transition: transform ease 2s;
+}
+.respostasusuario{
+    grid-area: foot;
+    margin: 0px 0 10px 40px;
+    padding: 0;
+}

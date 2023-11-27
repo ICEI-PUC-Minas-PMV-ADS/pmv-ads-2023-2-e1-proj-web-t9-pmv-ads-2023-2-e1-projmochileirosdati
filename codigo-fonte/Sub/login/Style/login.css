@@ -33,10 +33,14 @@ button.login-button{
   border-radius: 10px;
   font-size: 20px;
   border: #6f767a;
+  cursor:pointer;
 }
 ::placeholder{
   text-align: center;
   color: #253244;
+}
+.login-button:hover {
+  background-color: #1b2d3dcc;
 }
 img.imgestud{
   margin-top:5%;
