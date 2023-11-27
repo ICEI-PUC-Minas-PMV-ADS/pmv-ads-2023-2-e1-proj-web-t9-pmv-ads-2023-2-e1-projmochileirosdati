@@ -21,4 +21,13 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | O cadastro e o login funcionaram com êxito, o usuário chegou até sua página de perfil.  |
 | Responsável pela execução do caso de Teste | Moisés Nascimento |
 
-[]
+[![Captura de Tela (45)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144903154/453226d3-a896-4eef-a2d0-b65064fa54b8)
+
+![Captura de Tela (46)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144903154/0d2b5e65-a614-4b75-9f6e-a7d180fb5d42)
+
+![Captura de Tela (47)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144903154/551097db-2657-43e0-85bf-59a75f0b0d76)
+
+![Captura de Tela (48)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144903154/06984658-dceb-47e3-9a3c-58d59ef63816)
+
+![Captura de Tela (44)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144903154/799cb9b2-8407-40ed-8deb-5af584f1454c)
+]
