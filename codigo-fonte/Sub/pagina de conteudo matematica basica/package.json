@@ -1,0 +1,17 @@
+{
+    "name": "conteudomatematica",
+    "version": "1.0.0",
+    "description": "Página para postagem de conteúdo",
+    "main": "conteudoMatematica.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["programação", "desenvolvimento", "web","matematica"],
+    "author": "Moisés",
+    "license": "ISC",
+    "devDependencies": {
+      "@babel/preset-env": "^7.15.8"
+    }
+  }
+  
+  
