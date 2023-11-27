@@ -11,3 +11,14 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 [https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144903154/585fedf3-afdb-4dea-9a98-709adcaa3f31
 ]
+
+
+
+
+
+|Caso de Teste    | CT-02 - Verificar o login de usuários |
+|:---|:---|
+| Resultados obtidos | O cadastro e o login funcionaram com êxito, o usuário chegou até sua página de perfil.  |
+| Responsável pela execução do caso de Teste | Moisés Nascimento |
+
+[]
