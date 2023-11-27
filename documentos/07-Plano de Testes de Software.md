@@ -24,6 +24,16 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Passos | 1 - Acessar o navegador; 2 - Através do endereço do site, ir até a página home; 3 - Clicar em "Login" no menu superior; 4 - Preencher os campos requisitados e clicar no botão "entrar"|
 | Critérios de êxito | Após realizar o login, o usuário deve ser redirecionado para a página do próprio perfil.|
 | Responsável pela elaborar do caso de Teste | Douglas Takeshi |
+
+
+
+|Caso de Teste    | CT-03 - Verificar o login de usuários |
+|:---|:---|
+| Requisitos Associados | RF- 06: A aplicação deve proporcionar um padrão para exibição de conteúdos com atividades interativas ao longo dos assuntos tratados;|
+| Objetivo do Teste | Verificar a exibição do conteúdo das páginas e o funcionamento das atividades interativas. |
+| Passos | 1 - Acessar o navegador; 2 - Através do endereço do site, ir até a página home; 3 - Clicar em "Dev Web" ou "Matemática básica" na home do site; 4 - Analisar a disposição do conteúdo e testar a janela de compilação de código.|
+| Critérios de êxito | Após a leitura do conteúdo e do enunciado, o usuário deve conseguir escrever e executar o código requisitado.|
+| Responsável pela elaborar do caso de Teste | Moisés Nascimento |
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
