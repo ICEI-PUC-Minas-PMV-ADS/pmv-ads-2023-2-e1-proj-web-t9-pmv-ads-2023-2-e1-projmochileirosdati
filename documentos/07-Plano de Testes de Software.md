@@ -14,6 +14,16 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Passos | 1 - Acessar o navegador; 2 - Informar o endereço do site; 3 - Visualizar a página Home; 4 - Clicar nos links da página Home; 5 - Pré visualizar comentários do Blog|
 | Critérios de êxito | Todos os links da página Home devem encaminhar os usuários devidamente as páginas descritas. |
 | Responsável pela elaborar do caso de Teste | Amaury Magno |
+
+
+
+|Caso de Teste    | CT-02 - Verificar o login de usuários |
+|:---|:---|
+| Requisitos Associados | RF- 02: A aplicação deve permitir ao usuário efetuar o login na conta caso desejado;|
+| Objetivo do Teste | Verificar o funcionamento correto da operação de login do usuário. |
+| Passos | 1 - Acessar o navegador; 2 - Através do endereço do site, ir até a página home; 3 - Clicar em "Login" no menu superior; 4 - Preencher os campos requisitados e clicar no botão "entrar"|
+| Critérios de êxito | Após realizar o login, o usuário deve ser redirecionado para a página do próprio perfil.|
+| Responsável pela elaborar do caso de Teste | Douglas Takeshi |
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
