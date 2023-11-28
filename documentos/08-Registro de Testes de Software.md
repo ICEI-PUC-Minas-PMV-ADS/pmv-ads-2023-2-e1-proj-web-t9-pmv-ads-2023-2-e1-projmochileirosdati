@@ -7,10 +7,9 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 |Caso de Teste    | CT-01 - Verificar o funcionamento dos links da página Home |
 |:---|:---|
 | Resultados obtidos | Todas as páginas foram dispostas com êxito  |
-| Responsável pela execução do caso de Teste | Douglas Takeshi |
+| Responsável pela execução do caso de Teste | Douglas Takemi |
 
-[https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144903154/585fedf3-afdb-4dea-9a98-709adcaa3f31
-]
+![Animação dos testes de links das páginas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144903154/585fedf3-afdb-4dea-9a98-709adcaa3f31)
 
 
 
