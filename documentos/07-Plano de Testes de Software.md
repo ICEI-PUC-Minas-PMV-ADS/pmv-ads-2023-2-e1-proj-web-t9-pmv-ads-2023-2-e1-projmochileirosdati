@@ -9,7 +9,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 
 |Caso de Teste    | CT-01 - Verificar o funcionamento dos links da página Home |
 |:---|:---|
-| Requisitos Associados | RF-01: A aplicação deve conceder ao usuário a opção de cadastro e criação de conta; RF- 02: A aplicação deve permitir ao usuário efetuar o login na conta caso desejado; RF-05: A aplicação deve conter uma página principal para explicação do conteúdo da mesma|
+| Requisitos Associados | RF-01: A aplicação deve conceder ao usuário a opção de cadastro e criação de conta; RF- 02: A aplicação deve permitir ao usuário efetuar o login na conta caso desejado; RF-05: A aplicação deve conter uma página principal para explicação do conteúdo da mesma;|
 | Objetivo do Teste | Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente |
 | Passos | 1 - Acessar o navegador; 2 - Informar o endereço do site; 3 - Visualizar a página Home; 4 - Clicar nos links da página Home; 5 - Pré visualizar comentários do Blog|
 | Critérios de êxito | Todos os links da página Home devem encaminhar os usuários devidamente as páginas descritas. |
@@ -23,7 +23,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Objetivo do Teste | Verificar o funcionamento correto da operação de login do usuário. |
 | Passos | 1 - Acessar o navegador; 2 - Através do endereço do site, ir até a página home; 3 - Clicar em "Login" no menu superior; 4 - Preencher os campos requisitados e clicar no botão "entrar"|
 | Critérios de êxito | Após realizar o login, o usuário deve ser redirecionado para a página do próprio perfil.|
-| Responsável pela elaborar do caso de Teste | Douglas Takeshi |
+| Responsável pela elaborar do caso de Teste | Douglas Takemi |
 
 
 
