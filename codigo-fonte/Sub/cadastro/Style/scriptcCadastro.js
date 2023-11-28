@@ -28,16 +28,21 @@ function cadastrar() {
     }
   
     let listaUser = JSON.parse(localStorage.getItem('listaUser') || '[]')
+    let contadorUsers = listaUser.length;
+    console.log(listaUser);
   
     listaUser.push(
       {
+        idUser: contadorUsers + 1,
         nomeUser: formulario.nome.value,
         emailUser: formulario.email.value,
         SenhaUser: formulario.senha.value,
         ConfirmeSenhaUser: formulario.confSenha.value
       });
-  
-    localStorage.setItem("listaUser", JSON.stringify(listaUser))
+
+    
+    localStorage.setItem("Contador", JSON.stringify(contadorUsers + 1));
+    localStorage.setItem("listaUser", JSON.stringify(listaUser));
   
     alert("Usuário cadastrado com sucesso!");
     window.location.href = "../../Sub/login/login.html";

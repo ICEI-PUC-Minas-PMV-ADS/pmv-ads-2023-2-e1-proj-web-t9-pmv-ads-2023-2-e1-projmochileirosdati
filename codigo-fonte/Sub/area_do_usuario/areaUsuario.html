@@ -8,34 +8,59 @@
     <title>Document</title>
 </head>
     <body onload="myfunction()">
-        <a href="../../HomePage.html">
-             <img src="../../img/uma-mochila-escolar.png" width="80px">
-        </a>
-        <div id="nomeUsuario"> 
-            <p id="demo"></p>
-        </div>
-        <div class="foto"><img src="../cadastro/img/login-logo.png" width="100px"></div>
-        <div class="coments">
-            <div id="ordem">Compartilhe suas experiências e conhecimentos</div>
-            <form id="comentario">
-                <textarea name="text" rows="15" cols="50" placeholder="Insira seu comentário..." ></textarea>
-            </form>
-            <div class="botao">
-                <button onclick="compartilhar()">Compartilhar</button>
+        <header>
+            <a class="logo" href="../../HomePage.html">
+                <img src="../../img/uma-mochila-escolar.png" width="80px">
+            </a>
+            <div id="nomeUsuario">
+                <p id="demo"></p>
             </div>
-        </div>
-        <div id="dadosUsuario">
-            <div id="infUser">Informações <br>do usuário</div>
+            <div class="fundoFoto">
+                <div class="option">
+                    <li class="op editar"> </li>
+                    <li class="op configurar"> </li>
+                    <li class="op sair"> </li>
+                </div>
+                <div class="foto"><img src="../cadastro/img/login-logo.png" width="100px"></div>
+            </div>
             
-            <li id="infnome">Nome</li>
-            <li id="infemail">Email</li>
+        </header>
+        <main>
             
-        </div>
-        <div id="inserirPagina">
-            <p>Insira aqui links sobre qualquer assunto interessante que deseje compartilhar</p>
-            <form id="inputlinks">
-                <textarea name="link" row="3" cols="50" placeholder="Insira um link"></textarea>
-            </form>
-        </div>
-</body>
+            <section class="sectionCompartilha">
+                <div class="fundoMovel">
+                    <div class="compartilha" id="compartilha">
+                        <div class="mensagem" id="mensagem">Compartilhe suas experiências e conhecimentos</div>
+                        <form id="comentario">
+                            <textarea class="insereComentario" name="text" rows="15" cols="50"
+                                placeholder="Insira seu comentário..."></textarea>
+                        </form>
+                        <div class="botao">
+                            <button onclick="compartilhar()">COMPARTILHAR</button>
+                        </div>
+                    </div>
+                </div>
+                
+            </section>
+
+            <section clas="sectionDadosUsuario">
+                <div id="dadosUsuario">
+                    <div id="infUser">Informações <br> do usuário</div>
+                    <div class="listUser">
+                        <li id="infnome">Nome</li>
+                        <li id="infemail">Email</li>
+                    </div>   
+                </div>
+                     
+            </section>
+            
+            <section id="inserirPagina">
+                <p class="textoinserelink">Insira aqui links sobre qualquer assunto interessante que deseje compartilhar</p>
+                <form id="inputlinks">
+                    <textarea class="insereLink" name="link" row="3" cols="50" placeholder="Insira um link"></textarea>
+                </form>
+            </section>
+            </body>
+        </main>
+        
 </html>
