@@ -27,7 +27,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 
 
 
-|Caso de Teste    | CT-03 - Verificar o login de usuários |
+|Caso de Teste    | CT-03 - Verificar as páginas de conteúdo |
 |:---|:---|
 | Requisitos Associados | RF- 06: A aplicação deve proporcionar um padrão para exibição de conteúdos com atividades interativas ao longo dos assuntos tratados;|
 | Objetivo do Teste | Verificar a exibição do conteúdo das páginas e o funcionamento das atividades interativas. |
