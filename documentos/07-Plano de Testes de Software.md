@@ -34,10 +34,4 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 | Passos | 1 - Acessar o navegador; 2 - Através do endereço do site, ir até a página home; 3 - Clicar em "Dev Web" ou "Matemática básica" na home do site; 4 - Analisar a disposição do conteúdo e testar a janela de compilação de código.|
 | Critérios de êxito | Após a leitura do conteúdo e do enunciado, o usuário deve conseguir escrever e executar o código requisitado.|
 | Responsável pela elaborar do caso de Teste | Moisés Nascimento |
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+
