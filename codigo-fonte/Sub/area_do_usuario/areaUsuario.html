@@ -3,11 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./Style/areaUsuariostyle.css">
-    <script refer src="areaUsuario.js"></script>
+    <link rel="stylesheet" href='./Style/areaUsuariostyle.css'>
+    <script type="module" defer src='./crudDBareaUsuario.js'></script>
+    <script type="module" defer src='./areaUsuario.js'></script>
     <title>Document</title>
 </head>
-    <body onload="myfunction()">
+    <body id="body">
         <header>
             <a class="logo" href="../../HomePage.html">
                 <img src="../../img/uma-mochila-escolar.png" width="80px">
@@ -15,13 +16,13 @@
             <div id="nomeUsuario">
                 <p id="demo"></p>
             </div>
-            <div class="fundoFoto">
-                <div class="option">
-                    <li class="op editar"> </li>
-                    <li class="op configurar"> </li>
-                    <li class="op sair"> </li>
+            <div id="fundoFoto" class="fundoFoto">
+                <div id="options">
+                    <li id="editar" class="op"> <figure class="fig"> <img class="img" src="./img/editar.png" width="15px" height="15px"/></figure>  </li>
+                    <li id="configurar" class="op"><figure class="fig"> <img class="img1" src="./img/configurar.png" width="15px" height="15px" /></figure> </li>
+                    <li id="sair" class="op"><figure class="fig"> <img class="img2" src="./img/sair.png" width="15px" height="15px" /></figure></li>
                 </div>
-                <div class="foto"><img src="../cadastro/img/login-logo.png" width="100px"></div>
+                <div  id="foto" class="foto"><img src="../cadastro/img/login-logo.png" width="100px"></div>
             </div>
             
         </header>
@@ -32,11 +33,11 @@
                     <div class="compartilha" id="compartilha">
                         <div class="mensagem" id="mensagem">Compartilhe suas experiências e conhecimentos</div>
                         <form id="comentario">
-                            <textarea class="insereComentario" name="text" rows="15" cols="50"
+                            <textarea id="txtArea" class="insereComentario" name="text" rows="15" cols="50"
                                 placeholder="Insira seu comentário..."></textarea>
                         </form>
                         <div class="botao">
-                            <button onclick="compartilhar()">COMPARTILHAR</button>
+                            <button id="btCompartilhar">COMPARTILHAR</button>
                         </div>
                     </div>
                 </div>
