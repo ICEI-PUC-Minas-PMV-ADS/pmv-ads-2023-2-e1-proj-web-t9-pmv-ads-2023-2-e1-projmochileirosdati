@@ -10,7 +10,8 @@ body{
     grid-template-areas:
        'cim'
        'adapt'
-       'main';
+       'main'
+       'footer';
     row-gap: 2%;
     column-gap: 2%; 
     padding: 2%;
@@ -141,7 +142,7 @@ main {
 .fundoMovel{
     background-color: #4799EB;
     border-radius: 30px;
-    padding: 3px;
+    padding: 2px;
 }
 #mensagem {
     font-size: 20px;
@@ -164,6 +165,7 @@ main {
 }
 
 .mensagem{
+    display: flex;
     z-index: 0;
 }
 .insereComentario {
@@ -249,5 +251,16 @@ button:hover{
     border-radius: 10px;
     text-align: center;
 }
-
+footer {
+    grid-area: footer;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 15px;
+    text-align:center;
+    padding: 20px 0px 20px 0px;
+    margin-bottom: 0%;
+    margin-top: 35%;
+    width: 100%;
+  }
 
