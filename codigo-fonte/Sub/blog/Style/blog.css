@@ -210,3 +210,14 @@ aside h5:hover{
     margin: 0px 0 10px 40px;
     padding: 0;
 }
+footer {
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 15px;
+    text-align:center;
+    padding: 20px 0px 20px 0px;
+    margin-bottom: 0%;
+    margin-top: 35%;
+    width: 100%;
+  }
