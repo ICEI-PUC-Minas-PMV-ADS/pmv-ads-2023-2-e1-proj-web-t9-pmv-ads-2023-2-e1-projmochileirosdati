@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./Style/pagina_cadastro.css">
+    <link rel="stylesheet" href="./Style/pagina_cadastro.css" media="(min-width:600px)">
+    <link rel="stylesheet" href="/codigo-fonte/Sub/cadastro/Style/pagina_cadastroP.css" media="(max-width:600px)">
     <script defer src="./Style/scriptcCadastro.js"></script>
     <title>Cadastre-se</title>
 </head>
@@ -30,12 +31,12 @@
                <input type="file" id="myfile" name="myfile" hidden>
                  </div>
                <form class="sobrevc">
-                  <textarea name="text" rows="8" cols="35" placeholder="Fale sobre você..." ></textarea>
+                  <textarea id="text" name="text" rows="8" cols="35" placeholder="Fale sobre você..." ></textarea>
                 </form>
                 </div>
           </div>
           <div class="botao">
-          <button onclick="cadastrar()">Cadastrar</button>
+          <button onclick="cadastrar()"><b>Cadastrar</b></button>
           </div>
     </main>
     <footer class="rodape">
