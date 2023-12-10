@@ -1,10 +1,11 @@
-function runCode() {
-    const inputCode = document.getElementById('inputCode').value;
-    try {
-        const compiledCode = Babel.transform(inputCode, {presets: ['@babel/preset-env']}).code;
-        eval(compiledCode);
-        document.getElementById('output').textContent = 'Código executado com sucesso!';
-    } catch (error) {
-        document.getElementById('output').textContent = 'Erro ao executar o código: ' + error.message;
+function runCode(){
+    var userString = document.getElementById('inputCode').value;
+    
+    var stringCorreta = 'var A = 1, B = 2, C = A + B;'
+
+    if (userString === stringCorreta){
+        alert("Parabéns! Você digitou o código corretamente.");
+    } else{
+        alert("A código não foi digitado corretamente. Tente novamente.");
     }
 }
