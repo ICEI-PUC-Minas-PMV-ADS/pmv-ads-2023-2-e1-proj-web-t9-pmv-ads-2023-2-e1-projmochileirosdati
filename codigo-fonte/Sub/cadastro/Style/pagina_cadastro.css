@@ -106,3 +106,41 @@ footer {
     margin-top: 25%;
     width: 100%;
   }
+.dropbtn {
+    background-image: url("../img/login-logo.png");
+    background-repeat: no-repeat;
+    padding: 30px 20px 30px 30px;
+    border-radius: 100px;
+    background-size: contain;
+    margin-inline:25%;
+    color:black;
+
+    ;
+
+  }
+  
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #2980B9;
+  }
+  
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown a:hover {background-color: #ddd;}
+  
+  .show {display: block;}
