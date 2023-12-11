@@ -11,6 +11,7 @@ body.onload = function(){
     document.getElementById('demo').innerHTML= 'Olá, '+ userLogado.nomeUser;
     document.getElementById('infnome').innerHTML= userLogado.nomeUser +" "+userLogado.sobrenomeUser;
     document.getElementById('infemail').innerHTML= userLogado.emailUser;
+    document.getElementById('toto').src=userLogado.img;
     atualizaNComentario();
     
 }
