@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Projeto A</title>
     <link rel="stylesheet" href="./Style/login.css">
-    <script refer src="login.js"></script>
+    <script type="module" defer src="./crudDBlogin.js"></script>
+    <script type="module" defer src="./login.js"></script>
 </head>
 <body>
     <a href="../../HomePage.html">
@@ -22,7 +23,7 @@
             <label id="senhaLogin" for="senhaLabel"></label>
             <input id="senha_login" name="senha_login" required="required" type="password" placeholder="SENHA" />
         <p class="caixa"> 
-            <button onclick="return entrar()" class="login-button" id="botao" type=”button”>Entrar</button>
+            <button id="btnEntrar" class="login-button" id="botao" type=”button”>Entrar</button>
           </p>
         <div id="dadosIncorretos"></div>
           

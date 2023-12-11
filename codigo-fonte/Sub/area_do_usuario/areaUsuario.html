@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href='./Style/areaUsuariostyle.css' media="(min-width: 700px)">
-    <link rel="stylesheet" href="/codigo-fonte/Sub/area_do_usuario/Style/areaUsuariostylep.css" media="(max-width: 700px)">
+    <link rel="stylesheet" href='./Style/areaUsuariostyle.css' media="(min-width: 880px)">
+    <link rel="stylesheet" href="./Style/areaUsuariostylep.css" media="(max-width: 880px)">
     <script type="module" defer src='./crudDBareaUsuario.js'></script>
     <script type="module" defer src='./areaUsuario.js'></script>
     <title>Document</title>
@@ -23,7 +23,7 @@
                     <li id="configurar" class="op"><figure class="fig"> <img class="img1" src="./img/configurar.png" width="15px" height="15px" /></figure> </li>
                     <li id="sair" class="op"><figure class="fig"> <img class="img2" src="./img/sair.png" width="15px" height="15px" /></figure></li>
                 </div>
-                <div  id="foto" class="foto"><img src="../cadastro/img/login-logo.png" width="100px"></div>
+                <div  id="foto" class="foto"><img class="imagem" src="./img/usuario1.jpg" width="100px"></div>
             </div>
             
         </header>
@@ -34,7 +34,9 @@
                     <div class="compartilha" id="compartilha">
                         <div class="mensagem" id="mensagem">Compartilhe suas experiências e conhecimentos</div>
                         <form id="comentario">
-                            <textarea id="txtArea" class="insereComentario" name="text" rows="10" cols="50"
+                            <textarea id="tituloComentario" class="tituloComentario" name="text" rows="15" cols="50"
+                                placeholder="Insira o titulo..."></textarea>
+                            <textarea id="txtArea" class="insereComentario" name="text" rows="15" cols="50"
                                 placeholder="Insira seu comentário..."></textarea>
                         </form>
                         <div class="botao">
@@ -42,7 +44,7 @@
                         </div>
                     </div>
                 </div>
-                
+            
             </section>
 
             <section clas="sectionDadosUsuario">
@@ -55,6 +57,16 @@
                 </div>
                      
             </section>
+
+            <section class="acessoBlog">
+                <a href="../blog/blog.html">
+                    <button id="btnBlog">BLOG</button>
+                </a>
+                <div id="comentarios">
+                    <h2 id="textComentarios">Nº COMENTÁRIOS</h2>
+                    <h3 id="nComentarios">0</h3>
+                </div>
+            </section>
             
             <section id="inserirPagina">
                 <p class="textoinserelink">Insira aqui links sobre qualquer assunto interessante que deseje compartilhar</p>
@@ -62,7 +74,7 @@
                     <textarea class="insereLink" name="link" row="3" cols="50" placeholder="Insira um link"></textarea>
                 </form>
                 <div class="botao">
-                    <button id="btCompartilhar">COMPARTILHAR</button>
+                    <button id="btComparilharLink">COMPARTILHAR</button>
                 </div>
             </section> 
             

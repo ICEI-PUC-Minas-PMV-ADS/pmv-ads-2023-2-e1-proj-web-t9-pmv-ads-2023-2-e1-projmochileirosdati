@@ -7,16 +7,29 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="Style/StyleHomePage.css" media="(min-width:900px)">
         <link rel="stylesheet" href="Style/StyleHomePageP.css" media="(max-width:900px)">
+        <script type="module" defer src="./HomePage.js"></script>
+        <script type="module" defer src="./HomePageDB.js"></script>
     </head>
-    <body>
+    <body id="body">
         <div class="navegation">
             <head>
                 <nav class="nave">
-                    <ul class="menu-h">
+                    <ul class="menu-h" id="menu_h">
                         <li><a href="./Sub/login/login.html">LOGIN</a></li>
                         <li><a href="./Sub/cadastro/pagina_cadastro.html">CADASTRO</a></li>
                     </ul>
+                    <div class="naveUsuario" id="naveUsuario">
+                        <a>
+                            <figure>
+                                <img class="fotoUsuario" src="./img/usuario1.jpg" alt="imagemusuario 1">
+                            </figure>
+                        </a>
+                        <div class="areaNomeUsuario">
+                            <h2 id="userName"></h2>
+                        </div>
+                    </div>
                 </nav>
+
                 <h1>GUIA DO MOCHILEIRO DA TI</h1>
                 <p>FRASE DO LIVRO</p>
             </head>

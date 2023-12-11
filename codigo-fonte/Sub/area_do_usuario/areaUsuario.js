@@ -1,12 +1,18 @@
-import { getObJason, delObJason, upObJason, createObIdComentario } from '../area_do_usuario/crudDBareaUsuario.js';
+import { getObJason, delObJason, upObJason, createObIdComentario, listaUsuarios } from '../area_do_usuario/crudDBareaUsuario.js';
 
+function atualizaNComentario(){
+    let userLogado = getObJason('userLogado');
+    nComentarios.innerHTML = userLogado.comentario.length;
+}
 
 
 body.onload = function(){
-let userLogado = getObJason();
-document.getElementById('demo').innerHTML= 'Olá, '+ userLogado.nome;
-document.getElementById('infnome').innerHTML= userLogado.nome;
-document.getElementById('infemail').innerHTML= userLogado.email;
+    let userLogado = getObJason('userLogado');
+    document.getElementById('demo').innerHTML= 'Olá, '+ userLogado.nomeUser;
+    document.getElementById('infnome').innerHTML= userLogado.nomeUser +" "+userLogado.sobrenomeUser;
+    document.getElementById('infemail').innerHTML= userLogado.emailUser;
+    atualizaNComentario();
+    
 }
 
 
@@ -31,34 +37,53 @@ fundoFoto.onmouseleave = function(){
     sair.style.transition = '200ms linear' 
 }
 
-sair.onclick = function(){
+//FUNCOES DA FOTO INTERATIVA
+sair.onclick = function(){ //FUNCAO SAIR
     delObJason('userLogado');
     window.location.href = "../login/login.html";
 
 }
 
+
 btCompartilhar.onclick = function(){
-    let comentario = txtArea.value
+    let data = new Date;
+    let comentario = txtArea.value;
+    let titulo = tituloComentario.value;
     if(comentario != null && comentario != ''){
-        let usuariologado = getObJason();
+        let usuariologado = getObJason('userLogado');
         let idComentario = parseInt(createObIdComentario());
         if(idComentario == 0){
-            usuariologado.comentario = [{
-                id: idComentario + 1,
-                cmt: comentario
-            }];
-            console.log('true');
+                usuariologado.comentario = [{
+                    id: idComentario + 1,
+                    cmtTitulo: titulo,
+                    cmt: comentario,
+                    cmtData: (data.getDate() + "/" + data.getMonth() + "/" + data.getFullYear()),
+                    cmtHora: (data.getHours() + ":" + data.getMinutes() + ":" + data.getSeconds())
+                }];
         }
         else {
             usuariologado.comentario [idComentario] = {
                 id: idComentario + 1,
-                cmt: comentario
+                cmtTitulo: titulo,
+                cmt: comentario,
+                cmtData: (data.getDate() + "/" + data.getMonth() + "/" + data.getFullYear()),
+                cmtHora: (data.getHours() + ":" + data.getMinutes() + ":" + data.getSeconds())
             }
         }
         usuariologado.ultimo_Id_Comentario = [idComentario + 1];
-        upObJason(usuariologado);
+        //SALVA COMENTARIO NA ARRAY DE COMENTARIOS
+        let Comentario = getObJason('Comentario')
+        Comentario.push({
+            usuarioId: usuariologado.idUser,
+            comentario: usuariologado.comentario[idComentario]
+        });
+        upObJason('userLogado', usuariologado);
+        upObJason('Comentario', Comentario);
         txtArea.value = '';
+        listaUsuarios();
         alert('COMENTARIO GUARDADO');
+        atualizaNComentario();
+
     }
     else{
         alert("COMENTARIO INVÁLIDO");

@@ -10,11 +10,24 @@ body{
   
     
 }
+.nave {
+    margin: 10px;
+    display: flex;
+    justify-content: end;
+}
+
+#menu_h {
+    display: block;
+    width: 90vw;
+    list-style: none;
+    padding: 0;
+    z-index: 1;
+}
 .menu-h{
     grid-area: nav;
 }
 .menu-h > li{
-    display: inline;
+    display: block;
     text-decoration: none;
     justify-content:center;
 }
@@ -31,6 +44,48 @@ body{
     background-color: #6F767A;
     transition: transform 1s ease;
 }
+
+/*IMAGEM DO USUARIO LOGADO IMBUTIDO*/
+#naveUsuario {
+    max-width: 200px;
+    max-height: 70px;
+    display: none;
+    background-color: #25324444;
+    padding: 3px 100px 3px 5px;
+    border-radius: 50px;
+    cursor: pointer;
+    z-index: 2;
+    position: absolute;
+}
+
+.fotoUsuario {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: dashed 3px #494444;
+    border-radius: 50%;
+}
+
+.areaNomeUsuario {
+    vertical-align: top;
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    height: auto;
+    margin: 10px;
+    padding: 3px 0 0 8px;
+}
+
+#userName {
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+
+}
+
 .navegation{
     display: grid;
     grid-template-areas:
