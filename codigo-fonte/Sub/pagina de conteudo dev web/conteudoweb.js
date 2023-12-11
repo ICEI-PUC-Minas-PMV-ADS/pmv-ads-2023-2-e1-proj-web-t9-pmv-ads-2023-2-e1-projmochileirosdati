@@ -1,7 +1,7 @@
 function runCode(){
-    var userString = document.getElementById('inputCode').value;
+    var userString = document.getElementById('inputString').value;
     
-    var stringCorreta = 'var A = 1, B = 2, C = A + B;'
+    var stringCorreta = 'console.log("Olá, mundo!");'
 
     if (userString === stringCorreta){
         alert("Parabéns! Você digitou o código corretamente.");
