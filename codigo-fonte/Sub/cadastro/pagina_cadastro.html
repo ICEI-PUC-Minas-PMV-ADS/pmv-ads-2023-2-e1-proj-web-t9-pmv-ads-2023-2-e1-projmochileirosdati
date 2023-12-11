@@ -26,10 +26,17 @@
                   <input type="password" name = "confSenha" id="confSenha" required placeholder="Confirme sua senha"><br>
                </form>
                <div class="fotocomen">
-                <div class="label">
-               <label for="myfile">Insira sua foto</label>
-               <input type="file" id="myfile" name="myfile" hidden>
-                 </div>
+                 <div class="dropdown">
+                    <button onclick="myFunction()" id="fundo" class="dropbtn">Escolha sua imagem de perfil</button>
+                    <div id="myDropdown" class="dropdown-content">
+                      <a><img src="/codigo-fonte/Sub/cadastro/img/Captura de tela 2023-12-10 020229.png" width="80px" onclick="mudarimagem('0')"></a>
+                      <a><img src="/codigo-fonte/Sub/cadastro/img/Captura de tela 2023-12-09 194243.png" width="80px"onclick="mudarimagem('1')"></a>
+                      <a><img src="/codigo-fonte/Sub/cadastro/img/Captura de tela 2023-12-09 194303.png" width="80px"onclick="mudarimagem('2')"></a>
+                      <a><img src="/codigo-fonte/Sub/cadastro/img/Captura de tela 2023-12-09 194339.png" width="80px"onclick="mudarimagem('3')"></a>
+                      <a><img src="/codigo-fonte/Sub/cadastro/img/Captura de tela 2023-12-09 194437.png" width="80px"onclick="mudarimagem('4')"></a>
+
+                    </div>
+                  </div>
                <form class="sobrevc">
                   <textarea id="text" name="text" rows="8" cols="35" placeholder="Fale sobre você..." ></textarea>
                 </form>
