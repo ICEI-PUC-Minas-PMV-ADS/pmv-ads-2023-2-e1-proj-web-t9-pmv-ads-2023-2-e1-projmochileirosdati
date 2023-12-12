@@ -144,3 +144,18 @@ footer {
   .dropdown a:hover {background-color: #ddd;}
   
   .show {display: block;}
+  .sobrevc {
+      align-items: center;
+      text-align: center;
+      justify-content: center;
+  }
+  #text{
+    margin:5px;
+    padding: 10px;
+    text-align: center;
+  }
+  .sobrevc {
+      align-items: center;
+      text-align: center;
+      justify-content: center;
+  }

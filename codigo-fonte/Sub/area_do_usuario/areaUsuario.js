@@ -3,15 +3,17 @@ import { getObJason, delObJason, upObJason, createObIdComentario, listaUsuarios 
 function atualizaNComentario(){
     let userLogado = getObJason('userLogado');
     nComentarios.innerHTML = userLogado.comentario.length;
+    
 }
 
 
 body.onload = function(){
     let userLogado = getObJason('userLogado');
-    document.getElementById('demo').innerHTML= 'Olá, '+ userLogado.nomeUser;
-    document.getElementById('infnome').innerHTML= userLogado.nomeUser +" "+userLogado.sobrenomeUser;
-    document.getElementById('infemail').innerHTML= userLogado.emailUser;
-    document.getElementById('toto').src=userLogado.img;
+    demo.innerHTML= 'Olá, '+ userLogado.nomeUser;
+    infnome.innerHTML= userLogado.nomeUser +" "+userLogado.sobrenomeUser;
+    infemail.innerHTML= userLogado.emailUser;
+    imgUsuario.src=userLogado.imgPerfil;
+    sbUsuario.innerHTML = userLogado.sobreUsuario;
     atualizaNComentario();
     
 }

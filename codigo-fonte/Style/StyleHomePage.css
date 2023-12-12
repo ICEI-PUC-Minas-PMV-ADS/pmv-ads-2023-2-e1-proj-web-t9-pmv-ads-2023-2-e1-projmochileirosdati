@@ -9,17 +9,35 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     display: grid;
-    min-width: 1042px;
+    width: 100%;
     
 }
+.navegation {
+    display: grid;
+    grid-template: 
+          "titulo nave" 1fr
+          "titulo ." 1fr / 3fr 1fr;
+    background-color: whitesmoke;
+    text-align: center;
+    color: #253244;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.titulo{
+    grid-area: titulo;
+    margin: 0;
+    padding:20px 5px;
+}
 .nave {
+    grid-area: nave;
     margin: 10px;
     display: flex;
     justify-content: end;
+    
 }
 #menu_h {
-    display: block;
-    width: 90vw;
+    display: flex;
     list-style: none;
     padding: 0;
     z-index: 1;
@@ -87,15 +105,7 @@ body{
 
 }
 
-.navegation{
-    display: grid;
-    background-color: whitesmoke;
-    text-align: center;
-    color:#253244;
-    margin: 10px;
-    border-radius: 10px;
-    padding: 20px;  
-}
+
 .resume{
     font-size: 30px;
     display: flex;
@@ -103,14 +113,17 @@ body{
     justify-content: center;
     align-items: center;
     background-color: whitesmoke;
-    margin: 10px;
     border-radius: 10px;
-    height: 300px;
+    margin: 10px;
+    padding: 100px;
+}
+.resume > h3{
+    font-size: 24px;
 }
 .minimapa{
     display: inline-flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-between;
     text-align: center;
     border: 0px;
     box-sizing: border-box;
@@ -119,11 +132,23 @@ body{
 .minimapa .bloco{
     margin: 10px;
     padding: 20px;
-    align-items: top;
+    justify-content: center;
+    align-items: center;
     width: calc(50vw - 30px);
     background-color: whitesmoke;
     border-radius: 10px;
     height: 300px;
+}
+.bloco > p{
+    margin-top: 20%;
+    justify-content: center;
+    align-items: center;
+}
+.bloco > img{
+    margin-top: 12%;
+    justify-content: center;
+    align-items: center;
+    
 }
 .fundopainel{
     background-color:#6F767A;
@@ -184,7 +209,7 @@ input[type=radio]{
     justify-content: center;
     align-items: center;
     flex-direction: row;
-    width: 50%;
+    width: 40%;
     height: 100%;
 
 }
@@ -211,7 +236,7 @@ input[type=radio]{
     margin-bottom: 10px;
     margin-right: 10px;
     border-radius: 30px;
-    width: 800px;
+    width: 50%;
     height: 250px;
     padding: 20px;
     display: flex;
@@ -230,6 +255,12 @@ input[type=radio]{
     margin: 10px;
     height: 80px;
     transition: transform .5s ease-in-out;
+}
+.post > h2{
+    font-size: 30px;
+}
+.post > p{
+    font-size: 25px;
 }
 .Autores{
     margin: 50px 10px 10px;
@@ -320,6 +351,6 @@ footer {
     text-align:center;
     padding: 20px 0px 20px 0px;
     margin-bottom: 0%;
-    margin-top: 35%;
+    margin-top: 5%;
     width: 100%;
   }

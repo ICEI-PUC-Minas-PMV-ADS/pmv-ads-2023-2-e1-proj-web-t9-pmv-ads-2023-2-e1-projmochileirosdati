@@ -6,6 +6,7 @@
 
 body{
     background-image: linear-gradient(90deg, #4ED4F9, #4799EB);
+    min-width: 500px;
 }
 header{
     width: 100%;
@@ -128,9 +129,11 @@ article h3{
     margin-bottom: 5px;
 }
 article h4{
+    display: flex;
+    flex-wrap: wrap;
     margin-left: 5px;
-    width: 750px;
-    min-width: 400px;
+    width: 70vw;
+    min-width: 2vw;
 }
 aside{
     display: flex;

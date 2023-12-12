@@ -92,6 +92,7 @@ img{
 .fotocomen{
     flex-direction: column;
     margin: auto;
+    justify-content: center;
     align-items:center;
 
 }
@@ -156,3 +157,13 @@ footer {
   .dropdown a:hover {background-color: #ddd;}
   
   .show {display: block;}
+  #text {
+      margin: 5px;
+      padding: 10px;
+      text-align: center;
+  }
+  .sobrevc{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  }

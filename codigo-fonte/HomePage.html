@@ -5,14 +5,19 @@
         <title>Home Page Mochileiros da TI</title>
         <meta charset="UTF-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="Style/StyleHomePage.css" media="(min-width:900px)">
-        <link rel="stylesheet" href="Style/StyleHomePageP.css" media="(max-width:900px)">
+        <link rel="stylesheet" href="Style/StyleHomePage.css" media="(min-width:915px)">
+        <link rel="stylesheet" href="Style/StyleHomePageP.css" media="(max-width:915px)">
         <script type="module" defer src="./HomePage.js"></script>
         <script type="module" defer src="./HomePageDB.js"></script>
     </head>
     <body id="body">
         <div class="navegation">
             <head>
+                <div class="titulo">
+                    <h1>GUIA DO MOCHILEIRO DA TI</h1>
+                    <p>FRASE DO LIVRO</p>
+                </div>
+                
                 <nav class="nave">
                     <ul class="menu-h" id="menu_h">
                         <li><a href="./Sub/login/login.html">LOGIN</a></li>
@@ -21,7 +26,7 @@
                     <div class="naveUsuario" id="naveUsuario">
                         <a>
                             <figure>
-                                <img class="fotoUsuario" src="./img/usuario1.jpg" alt="imagemusuario 1">
+                                <img id="fotoUsuario" class="fotoUsuario" src="./img/usuario1.jpg" alt="imagemusuario 1">
                             </figure>
                         </a>
                         <div class="areaNomeUsuario">
@@ -29,20 +34,17 @@
                         </div>
                     </div>
                 </nav>
-
-                <h1>GUIA DO MOCHILEIRO DA TI</h1>
-                <p>FRASE DO LIVRO</p>
             </head>
         </div>
         <div class="resume">
-            <h3>RESUMO DA PROPOSTA DO SITE</h3>
+            <h3>Este site tem como objetivo simplificar o acesso as informações referentes a área da TI. Os assuntos tendem a ser o mais interativo possivel, há um espaço para comentários e avaliaçoes, criticas e sugestões de melhorias, seja bem vindo aos mochileiros.</h3>
         </div>
         <div class="minimapa">
             <div class="bloco explicacao">
-                <p>EXPLICAÇÃO SOBRE MINIMAPA</p>
+                <p>O minimapa é uma área interativa que visa demosntrar para você o caminho pecorrido até a página desejada ou que se encontra navegando.</p>
             </div>
             <div class="bloco interativo">
-                <p>MINIMAPA INTERATIVO</p>
+                <img clas="minimapaImg" src="./img/minimapa.png" width="300em" height="150em" alt="minimapa">
             </div>              
         </div>
         <div class="fundopainel">
@@ -61,32 +63,30 @@
         <input type="radio" name="nav" id="card-C">
             <form action="" class="coment">
                 <label for="card-A" class="card" id="tr-A">
-                    <h4 class="txt_card"> CARD A </h4>
-                    <p>ESTE É O ASSUNDO DO CARD A</p>
+                    <h4 id="txtCardA" class="txt_card"> CARD A </h4>
+                    <p id="assuntoCardA1">ESTE É O ASSUNDO DO CARD A</p>
                 </label>
                 <label for="card-B" class="card" id="tr-B">
-                    <h4 class="txt_card"> CARD B </h4>
-                    <p>ESTE É O ASSUNTO DO CARD B</p>
+                    <h4 id="txtCardB" class="txt_card"> CARD B </h4>
+                    <p id="assuntoCardB2">ESTE É O ASSUNTO DO CARD B</p>
                 </label>
                 <label for="card-C" class="card" id="tr-C">
-                    <h4 class="txt_card"> CARD C </h4>
-                    <p>ESTE É O ASSUTNO DO CARD C</p>
+                    <h4 id="txtCardC" class="txt_card"> CARD C </h4>
+                    <p id="assuntoCardC3" >ESTE É O ASSUTNO DO CARD C</p>
                 </label>
             </form>
             <div action="" class="posts">
                 <label for="" class="post" id="tr-A">
-                    <a href="./Sub/blog/blog.html">
-                        <h2 id="tr-A">TITULO POSTAGEM A</h2>
-                    </a>
-                    <p id="tr-A">SOBRE A POSTAGEM A</p>
+                    <h2 id="assuntoCardA">TITULO POSTAGEM A</h2>
+                    <p id="sobreA">SOBRE A POSTAGEM A</p>
                 </label>
                 <label for="" class="post" id="tr-B">
-                    <h2 id="tr-B"> TITULO POSTAGEM B </h2>
-                    <p id="tr-B">SOBER A POSTAGEM B</p>
+                    <h2 id="assuntoCardB"> TITULO POSTAGEM B </h2>
+                    <p id="sobreB">SOBER A POSTAGEM B</p>
                 </label>
                 <label for="" class="post" id="tr-C">
-                    <h2 id="tr-C">TITULO POSTAGEM C</h2>
-                    <p id="tr-C">SOBRE A POSTAGEM C</p>
+                    <h2 id="assuntoCardC">TITULO POSTAGEM C</h2>
+                    <p id="sobreC">SOBRE A POSTAGEM C</p>
                 </label>
             </div>
         </div>
@@ -94,13 +94,13 @@
         <div class="autores">
             <ul class="circle">
                 <li class="circleText">
-                    <p class="text">AUTOR EXEMPLO A</p>
+                    <p class="text">AMAURY MAGNO</p>
                 </li>
                 <li class="circleText">
-                    <p class="text">AUTOR EXEMPLO B</p>
+                    <p class="text">DOUGLAS KIMURA</p>
                 </li>
                 <li class="circleText">
-                    <p class="text">AUTOR EXEMPLO C</p>
+                    <p class="text">MOISÉS SANTOS</p>
                 </li>
             </ul>
         </div>

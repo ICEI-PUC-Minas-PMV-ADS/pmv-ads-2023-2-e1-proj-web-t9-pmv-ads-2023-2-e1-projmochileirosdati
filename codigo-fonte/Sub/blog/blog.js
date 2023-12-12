@@ -1,7 +1,10 @@
 import { getObJason } from "./crudDBblog.js";
 
+
+
 let usuario = getObJason("userLogado");
 console.log(usuario);
+fotoUsuario.src = usuario.imgPerfil;
 var nameUsuario = usuario.nomeUser + " " + usuario.sobrenomeUser;
 var idUsuario = usuario.id;
 if(usuario.length != 0){

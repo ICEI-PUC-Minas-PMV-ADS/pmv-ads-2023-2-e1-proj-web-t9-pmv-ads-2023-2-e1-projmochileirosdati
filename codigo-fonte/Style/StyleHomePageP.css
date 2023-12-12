@@ -7,24 +7,46 @@ body{
     background-image: linear-gradient(90deg, #4ED4F9, #4799EB);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 13px;
+    display: grid;
+    align-items: center;
   
     
 }
+.navegation {
+    display: grid;
+    grid-template:
+        "titulo" 1fr
+        "nave" 1fr / 1fr;
+    background-color: whitesmoke;
+    text-align: center;
+    color: #253244;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.titulo {
+    grid-area: titulo;
+    margin: 0;
+    padding: 10px 5px;
+    font-size: 20px;
+}
+.titulo > p{
+    font-size: 18px;
+}
 .nave {
+    grid-area: nave;
     margin: 10px;
     display: flex;
-    justify-content: end;
+    flex-direction: row;
+    justify-content: center;
 }
 
 #menu_h {
-    display: block;
-    width: 90vw;
+    display: flex;
     list-style: none;
     padding: 0;
     z-index: 1;
-}
-.menu-h{
-    grid-area: nav;
 }
 .menu-h > li{
     display: block;
@@ -47,7 +69,7 @@ body{
 
 /*IMAGEM DO USUARIO LOGADO IMBUTIDO*/
 #naveUsuario {
-    max-width: 200px;
+    max-width: 120px;
     max-height: 70px;
     display: none;
     background-color: #25324444;
@@ -110,21 +132,38 @@ body{
     border-radius: 10px;
     height: 300px;
 }
+.resume>h3 {
+    font-size: 20px;
+}
 .minimapa{
-    display: flex;
+    display: inline-flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-between;
     text-align: center;
-    border: 0px;
+    box-sizing: border-box;
+    width: 100%;
     
 }
 .minimapa .bloco{
     margin: 10px;
     padding: 20px;
-    width: calc(30vw);
+    width: calc(50% - 30px);
     background-color: whitesmoke;
     border-radius: 10px;
-    height: 300px;
+    height: 200px;
+}
+.bloco>p {
+
+    margin-top: 20%;
+    justify-content: center;
+    align-items: center;
+}
+
+.bloco>img {
+    margin-top: 12%;
+    justify-content: center;
+    align-items: center;
+
 }
 .fundopainel{
     background-image: linear-gradient(270deg, #4ED4F9, #4799EB);
@@ -226,12 +265,21 @@ input[type=radio]{
     height: 80px;
     transition: transform .5s ease-in-out;
 }
+.post>h2 {
+    font-size: 25px;
+}
+.post>p {
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+}
 .autores{
     margin: 50px 10px 10px;
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;    
+    align-items: center;
+    scale: 0.9;    
 }
 .circle{
     width: 95vw;
@@ -315,6 +363,6 @@ footer {
     text-align:center;
     padding: 20px 0px 20px 0px;
     margin-bottom: 0%;
-    margin-top: 35%;
+    margin-top: 5%;
     width: 100%;
   }
