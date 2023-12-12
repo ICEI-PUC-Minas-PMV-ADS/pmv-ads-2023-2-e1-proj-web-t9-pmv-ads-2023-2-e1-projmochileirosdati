@@ -84,24 +84,24 @@ function cadastrar() {
   function mudarimagem(a){
     let x=a
     if (x==0){
-      fundo.style.backgroundImage="url('../../img_Users/imagem1User.png')";
-      return  y ="../../img_Users/imagem1User.png";
+      fundo.style.backgroundImage="url('/img_Users/imagem1User.png')";
+      return  y ="/img_Users/imagem1User.png";
     }
 
     if (x==1){
-      fundo.style.backgroundImage="url('../../img_Users/imagem2User.png')"; 
-      return  y ="../../img_Users/imagem2User.png"; 
+      fundo.style.backgroundImage="url('/img_Users/imagem2User.png')"; 
+      return  y ="/img_Users/imagem2User.png"; 
     }
     if (x==2){
-      fundo.style.backgroundImage="url('../../img_Users/imagem3User.png')"; 
-      return  y ="../../img_Users/imagem3User.png";     
+      fundo.style.backgroundImage="url('/img_Users/imagem3User.png')"; 
+      return  y ="/img_Users/imagem3User.png";     
     }
     if (x==3){
-      fundo.style.backgroundImage="url('../../img_Users/imagem4User.png')"; 
-      return  y ="../../img_Users/imagem4User.png"; 
+      fundo.style.backgroundImage="url('/img_Users/imagem4User.png')"; 
+      return  y ="/img_Users/imagem4User.png"; 
     }
     if (x==4){
-      fundo.style.backgroundImage="url('../../img_Users/imagem5User.png')"; 
-      return  y ="../../img_Users/imagem5User.png"; 
+      fundo.style.backgroundImage="url('/img_Users/imagem5User.png')"; 
+      return  y ="/img_Users/imagem5User.png"; 
     }
   }
