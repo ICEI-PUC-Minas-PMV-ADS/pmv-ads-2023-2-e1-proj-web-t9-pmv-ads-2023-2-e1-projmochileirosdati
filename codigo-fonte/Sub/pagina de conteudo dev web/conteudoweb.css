@@ -213,6 +213,58 @@ button {
 }
 
 
+@media screen and (max-width: 412px) {
+    .container {
+        width: 97%;
+       
+    }
+    
+}
+
+@media screen and (max-width: 412px) {
+    .container-2 {
+        width: 89.8%;
+       
+    }
+    
+}
+
+@media screen and (max-width: 412px) {
+    .container-3 {
+        width: 30%;
+        height: 35.70vw;
+       
+    }
+    
+}
 
     
+
+@media screen and (max-width: 412px) {
+    #console {
+        width: 55%;
+        
+       
+    }
+    
+}
+
+@media screen and (max-width: 412px) {
+    #console {
+        width: 55%;
+       
+    }
+    
+}
+
+@media screen and (max-width: 412px) {
+    .referencias {
+        width: 88%;
+       
+    }
+    
+}
+
+
+
 
