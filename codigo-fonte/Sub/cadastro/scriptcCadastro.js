@@ -78,30 +78,31 @@ function cadastrar() {
   function mouseOut() {
   fundo.style.color= "rgba(0,0,0,0.0)";
   }
+  h
 
 
 
   function mudarimagem(a){
     let x=a
     if (x==0){
-      fundo.style.backgroundImage="url('/codigo-fonte/img_Users/imagem1User.png')";
-      return  y ="/codigo-fonte/img_Users/imagem1User.png";
+      fundo.style.backgroundImage="url('/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem1User.png')";
+      return  y ="/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem1User.png";
     }
 
     if (x==1){
-      fundo.style.backgroundImage="url('/codigo-fonte/img_Users/imagem2User.png')"; 
-      return  y ="/codigo-fonte/img_Users/imagem2User.png"; 
+      fundo.style.backgroundImage="url('/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem2User.png')"; 
+      return  y ="/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem2User.png"; 
     }
     if (x==2){
-      fundo.style.backgroundImage="url('/codigo-fonte/img_Users/imagem3User.png')"; 
-      return  y ="/codigo-fonte/img_Users/imagem3User.png";     
+      fundo.style.backgroundImage="('/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem3User.png')"; 
+      return  y ="/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem3User.png";     
     }
     if (x==3){
-      fundo.style.backgroundImage="url('/codigo-fonte/img_Users/imagem4User.png')"; 
-      return  y ="/codigo-fonte/img_Users/imagem4User.png"; 
+      fundo.style.backgroundImage="url('/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem4User.png')"; 
+      return  y ="/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem4User.png"; 
     }
     if (x==4){
-      fundo.style.backgroundImage="url('/codigo-fonte/img_Users/imagem5User.png')"; 
-      return  y ="/codigo-fonte/img_Users/imagem5User.png"; 
+      fundo.style.backgroundImage="url('/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem5User.png')"; 
+      return  y ="/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem5User.png"; 
     }
   }
