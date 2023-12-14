@@ -10,5 +10,6 @@
 
 ## Hospedagem
 
-Foi utilizada a plataforma GitHub Pages como ambiente de hospedagem do site do projeto: 
+Foi utilizada a plataforma GitHub Pages como ambiente de hospedagem do site do projeto:
+[Mochilieros da TI - Pages](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/codigo-fonte/HomePage.html)
 
