@@ -5,12 +5,12 @@
    [Apresentação - Guia do mochileiro da TI.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/apresentacao/slidespdf/Guia%20do%20Mochileiro%20da%20TI%20Slide.pdf)
 
 
-3. Vídeo apresentação do projeto
+2. Vídeo de apresentação das funcionalidades
  
 [Apresentação de 3 min](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/issues/12#issue-2040922920)
 <br>
 
-5. Vídeo de apresentação das funcionalidades
+
 
 ## Hospedagem
 
