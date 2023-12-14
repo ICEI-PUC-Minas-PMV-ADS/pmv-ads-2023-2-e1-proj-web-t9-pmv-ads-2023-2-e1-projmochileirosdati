@@ -6,8 +6,8 @@
 
 
 2. Vídeo de apresentação das funcionalidades
- 
-[Apresentação de 3 min](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/issues/12#issue-2040922920)
+   
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/apresentacao/videos/GuiaMochileirosVideo.mp4
 <br>
 
 
