@@ -5,9 +5,9 @@
    [Apresentação - Guia do mochileiro da TI.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/apresentacao/slidespdf/Guia%20do%20Mochileiro%20da%20TI%20Slide.pdf)
 
 2. Vídeo de apresentação das funcionalidades
-  <iframe src="https://player.vimeo.com/video/894736644" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-  <br>
-  ![(https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144865205/2a6b3dde-9acb-4f36-acb1-2bb604d3c32a)](https://player.vimeo.com/video/894736644)
+   
+  ![(<img width="544" alt="ImgVideoGuiadoMochileiro" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144865205/9c0aa5ce-3bb5-44a7-8138-46009dd07a07">)](https://player.vimeo.com/video/894736644)
+
 
 
 
