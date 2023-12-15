@@ -6,10 +6,7 @@
 
 2. Vídeo de apresentação das funcionalidades
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/issues/12#issue-2040922920
-
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/assets/144865205/ff5a4d22-a692-43b8-81d3-e733feed3644.mp4
-<br>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/894736644?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="GuiaMochileiroVideo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 
