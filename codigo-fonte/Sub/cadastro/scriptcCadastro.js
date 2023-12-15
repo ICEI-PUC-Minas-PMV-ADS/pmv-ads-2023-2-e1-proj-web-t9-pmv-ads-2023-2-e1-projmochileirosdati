@@ -94,7 +94,7 @@ function cadastrar() {
       return  y ="/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem2User.png"; 
     }
     if (x==2){
-      fundo.style.backgroundImage="('../../img_Users/imagem3User.png')"; 
+      fundo.style.backgroundImage="url('../../img_Users/imagem3User.png')"; 
       return  y ="/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem3User.png";     
     }
     if (x==3){
@@ -102,7 +102,7 @@ function cadastrar() {
       return  y ="/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem4User.png"; 
     }
     if (x==4){
-      fundo.style.backgroundImage="url('/img_Users/imagem5User.png')"; 
+      fundo.style.backgroundImage="url('../../img_Users/imagem5User.png')"; 
       return  y ="/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem5User.png"; 
     }
   }
