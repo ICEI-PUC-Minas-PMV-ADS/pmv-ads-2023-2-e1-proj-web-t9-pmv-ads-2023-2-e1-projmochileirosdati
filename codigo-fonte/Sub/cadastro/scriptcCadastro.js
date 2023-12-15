@@ -85,7 +85,7 @@ function cadastrar() {
   function mudarimagem(a){
     let x=a
     if (x==0){
-      fundo.style.backgroundImage="url('/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem1User.png')";
+      fundo.style.backgroundImage="url('/codigo-fonte/img_Users/imagem1User.png')";
       return  y ="/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati-main/codigo-fonte/img_Users/imagem1User.png";
     }
 
