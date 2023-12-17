@@ -10,7 +10,7 @@
 
 3. Apresentação do projeto:
    
-https://github.com/DtKimura/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/apresentacao/video%20apresentacao%20projeto.mp4
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projmochileirosdati/blob/main/apresentacao/videos/video%20apresentacao%20projeto.mp4
 
 
 
