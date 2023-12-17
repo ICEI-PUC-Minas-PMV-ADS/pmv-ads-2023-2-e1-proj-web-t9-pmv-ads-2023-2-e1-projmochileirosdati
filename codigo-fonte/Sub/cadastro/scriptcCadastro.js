@@ -86,7 +86,7 @@ function cadastrar() {
     let x=a
     if (x==0){
       fundo.style.backgroundImage="url('../../img_Users/imagem1User.png')";
-      return  y ="/img_Users/imagem1User.png";
+      return  y ="/codigo-fonte/img_Users/imagem1User.png";
     }
 
     if (x==1){
